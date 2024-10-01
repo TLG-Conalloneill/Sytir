@@ -1601,3 +1601,69 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.10.01-11.27.50:447][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2024.10.01-11.27.50:484][528]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2024.10.01-11.28.09:991][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.01-11.36.46:247][866]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.01-11.36.46:271][866]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.01-11.36.46:280][867]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.01-11.36.47:853][ 52]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.10.01-11.36.47:854][ 52]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.01-11.37.08:770][407]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.01-11.37.54:322][623]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.01-11.37.54:333][623]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.01-11.37.54:339][623]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.01-11.37.54:366][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.01-11.38.08:738][311]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_PlayerHUD
+[2024.10.01-11.38.08:755][311]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.01-11.38.15:192][ 60]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.01-11.38.18:089][191]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.01-11.38.18:100][191]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.01-11.38.18:106][191]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.01-11.38.18:115][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.01-11.38.28:959][463]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Resource
+[2024.10.01-11.38.28:963][463]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.01-11.38.29:357][510]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Resource.W_Resource
+[2024.10.01-11.38.29:371][510]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.01-11.38.29:682][510]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.01-11.38.29:688][510]LogSlate: Took 0.005109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.01-11.38.33:558][967]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-11.38.33:559][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-11.38.33:565][967]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-11.38.33:565][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-11.38.33:601][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.01-11.39.00:211][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.01-11.39.00:212][998]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.018
+[2024.10.01-11.39.00:213][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_PlayerHUD] ([2] browsable assets)...
+[2024.10.01-11.39.00:216][998]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD]
+[2024.10.01-11.39.00:216][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHUD]
+[2024.10.01-11.39.00:216][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/Autosaves/Game/UI/W_PlayerHUD_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-11.39.00:219][998]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_PlayerHUD_Auto4
+[2024.10.01-11.39.00:219][998]LogSavePackage: Moving '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/W_PlayerHUD_Auto4675E045B4A0D3480AEB48FA2C05324F0.tmp' to '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/Autosaves/Game/UI/W_PlayerHUD_Auto4.uasset'
+[2024.10.01-11.39.00:220][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Resource] ([2] browsable assets)...
+[2024.10.01-11.39.00:221][998]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Resource.W_Resource]
+[2024.10.01-11.39.00:222][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Resource]
+[2024.10.01-11.39.00:222][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Resource" FILE="../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/Autosaves/Game/UI/W_Resource_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-11.39.00:224][998]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Resource_Auto4
+[2024.10.01-11.39.00:224][998]LogSavePackage: Moving '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/W_Resource_Auto459FD29984EE78D2C768138928A1F7424.tmp' to '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/Autosaves/Game/UI/W_Resource_Auto4.uasset'
+[2024.10.01-11.39.00:225][998]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.10.01-11.52.35:425][792]LogDerivedDataCache: C:/Users/B00686998/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-11.58.54:515][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.01-11.58.54:519][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-11.58.54:582][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_PlayerHUD] ([2] browsable assets)...
+[2024.10.01-11.58.54:582][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHUD]
+[2024.10.01-11.58.54:582][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../Users/B00686998/Documents/GitHub/Sytir/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2024.10.01-11.58.54:584][299]LogSavePackage: Moving output files for package: /Game/UI/W_PlayerHUD
+[2024.10.01-11.58.54:584][299]LogSavePackage: Moving '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/W_PlayerHUD1D2B06CF47D03CF17EE8228C59911969.tmp' to '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Content/UI/W_PlayerHUD.uasset'
+[2024.10.01-11.58.54:588][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_Resource] ([2] browsable assets)...
+[2024.10.01-11.58.54:588][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Resource]
+[2024.10.01-11.58.54:588][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Resource" FILE="../../../../../../Users/B00686998/Documents/GitHub/Sytir/Content/UI/W_Resource.uasset" SILENT=true
+[2024.10.01-11.58.54:590][299]LogSavePackage: Moving output files for package: /Game/UI/W_Resource
+[2024.10.01-11.58.54:590][299]LogSavePackage: Moving '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Saved/W_ResourceE7054C6642290F5D4150E8902BCA8A4C.tmp' to '../../../../../../Users/B00686998/Documents/GitHub/Sytir/Content/UI/W_Resource.uasset'
+[2024.10.01-11.58.54:605][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.946 ms (total: 885.275 ms)
+[2024.10.01-11.58.54:661][299]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.01-11.58.54:661][299]LogContentValidation: Enabled validators:
+[2024.10.01-11.58.54:661][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-11.58.54:661][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-11.58.54:661][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-11.58.54:661][299]LogContentValidation: Display: Validating asset /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2024.10.01-11.58.54:661][299]AssetCheck: /Game/UI/W_PlayerHUD Validating asset
+[2024.10.01-11.58.54:661][299]LogContentValidation: Display: Validating asset /Game/UI/W_Resource.W_Resource
+[2024.10.01-11.58.54:661][299]AssetCheck: /Game/UI/W_Resource Validating asset
