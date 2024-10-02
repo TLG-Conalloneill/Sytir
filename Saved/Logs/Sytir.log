@@ -1623,3 +1623,1204 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.10.02-15.44.02:258][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.10.02-15.44.02:258][984]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
 [2024.10.02-15.44.02:258][984]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.10.02-15.49.06:341][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.02-15.49.06:767][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-15.49.06:801][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-15.49.06:801][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-15.49.06:801][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-15.49.06:807][807]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-15.49.06:808][807]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability84B0A5084E6F98883D317D9A3D53E89C.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-15.49.06:817][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.158 ms (total: 871.062 ms)
+[2024.10.02-15.49.06:855][807]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-15.49.06:855][807]LogContentValidation: Enabled validators:
+[2024.10.02-15.49.06:855][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-15.49.06:855][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-15.49.06:855][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-15.49.06:855][807]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-15.49.06:855][807]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-15.52.05:407][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.02-15.53.18:773][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-15.53.18:776][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.024
+[2024.10.02-15.53.18:777][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-15.53.18:777][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-15.53.18:777][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-15.53.18:784][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Ability_Auto9
+[2024.10.02-15.53.18:784][920]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Auto92EA0EB1D4487F37265AB43B884C37718.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Auto9.uasset'
+[2024.10.02-15.53.18:785][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-15.53.18:785][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability_Slash]
+[2024.10.02-15.53.18:785][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Slash_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-15.53.18:788][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Ability_Slash_Auto9
+[2024.10.02-15.53.18:788][920]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash_Auto9897EA7D84FE49B84D8B36F8A733D962D.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Slash_Auto9.uasset'
+[2024.10.02-15.53.18:788][920]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.10.02-15.57.37:737][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.02-15.57.38:491][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-15.57.38:525][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-15.57.38:525][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-15.57.38:525][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-15.57.38:534][562]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-15.57.38:535][562]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability395CC93840745CA4E2124BA65C1254E1.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-15.57.38:542][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.316 ms (total: 921.378 ms)
+[2024.10.02-15.57.38:579][562]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-15.57.38:580][562]LogContentValidation: Enabled validators:
+[2024.10.02-15.57.38:580][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-15.57.38:580][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-15.57.38:580][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-15.57.38:580][562]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-15.57.38:580][562]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-16.03.18:915][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.10.02-16.03.18:918][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.029
+[2024.10.02-16.03.18:918][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.03.18:918][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability_Slash]
+[2024.10.02-16.03.18:918][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Slash_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-16.03.18:921][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Ability_Slash_Auto0
+[2024.10.02-16.03.18:922][344]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash_Auto00980A94F4B7E631CE7D4959981988755.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Slash_Auto0.uasset'
+[2024.10.02-16.03.18:922][344]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.10.02-16.21.29:608][188]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.02-16.41.22:359][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.02-16.41.22:362][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.026
+[2024.10.02-16.41.22:362][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-16.41.22:362][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-16.41.22:362][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-16.41.22:371][380]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Ability_Auto1
+[2024.10.02-16.41.22:372][380]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Auto159D43C7141394EF4DD9EE0ABE48061B2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability_Auto1.uasset'
+[2024.10.02-16.41.22:372][380]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.10.02-16.42.32:984][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.42.33:012][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-16.42.33:012][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-16.42.33:012][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-16.42.33:021][592]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-16.42.33:022][592]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability6BD62E8D44FD2F068D83AFA8C7554430.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-16.42.33:029][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.466 ms (total: 966.844 ms)
+[2024.10.02-16.42.33:068][592]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.42.33:068][592]LogContentValidation: Enabled validators:
+[2024.10.02-16.42.33:068][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.42.33:068][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.42.33:068][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.42.33:068][592]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-16.42.33:068][592]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-16.42.34:803][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.02-16.42.35:197][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.42.35:226][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.42.35:226][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability_Slash]
+[2024.10.02-16.42.35:226][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability_Slash.uasset" SILENT=true
+[2024.10.02-16.42.35:230][808]LogSavePackage: Moving output files for package: /Game/Abilities/Ability_Slash
+[2024.10.02-16.42.35:230][808]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_SlashAE0FCD984669D67ECACD2CA306AB9954.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability_Slash.uasset'
+[2024.10.02-16.42.35:240][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.262 ms (total: 1.01 sec)
+[2024.10.02-16.42.35:277][808]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.42.35:277][808]LogContentValidation: Enabled validators:
+[2024.10.02-16.42.35:277][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.42.35:277][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.42.35:277][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.42.35:277][808]LogContentValidation: Display: Validating asset /Game/Abilities/Ability_Slash.Ability_Slash
+[2024.10.02-16.42.35:277][808]AssetCheck: /Game/Abilities/Ability_Slash Validating asset
+[2024.10.02-16.42.46:314][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.42.46:348][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/StatsComponent] ([2] browsable assets)...
+[2024.10.02-16.42.46:348][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/StatsComponent]
+[2024.10.02-16.42.46:348][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/StatsComponent" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Systems/StatsComponent.uasset" SILENT=true
+[2024.10.02-16.42.46:358][217]LogSavePackage: Moving output files for package: /Game/Systems/StatsComponent
+[2024.10.02-16.42.46:359][217]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/StatsComponent402CDFAF4745B9C6A38A42A003A0E3AC.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Systems/StatsComponent.uasset'
+[2024.10.02-16.42.46:369][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.499 ms (total: 1.06 sec)
+[2024.10.02-16.42.46:409][217]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.42.46:409][217]LogContentValidation: Enabled validators:
+[2024.10.02-16.42.46:409][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.42.46:409][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.42.46:409][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.42.46:409][217]LogContentValidation: Display: Validating asset /Game/Systems/StatsComponent.StatsComponent
+[2024.10.02-16.42.46:409][217]AssetCheck: /Game/Systems/StatsComponent Validating asset
+[2024.10.02-16.42.47:193][308]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.42.47:193][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.42.47:274][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.02-16.42.49:304][470]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.42.49:304][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.42.49:373][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.02-16.42.49:817][512]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.02-16.42.49:817][512]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.42.49:817][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.42.49:883][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-16.45.01:240][112]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.02-16.45.01:251][112]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.02-16.45.01:263][113]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.02-16.45.04:475][261]LogContentBrowser: Attempting asset rename: NewFolder -> Ability
+[2024.10.02-16.45.04:475][261]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.AbilityEffect_C' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.SKEL_AbilityEffect_C' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.SKEL_AbilityEffect_C:UserConstructionScript' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.AbilityEffect:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.AbilityEffect:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.AbilityEffect:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:744][ 49]LogMetaData: Removing '/Game/Abilities/AbilityEffect.AbilityEffect:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Abilities/Effects/AbilityEffect.PackageMetaData'
+[2024.10.02-16.45.22:765][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.45.22:795][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-16.45.22:795][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-16.45.22:795][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-16.45.22:804][ 49]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-16.45.22:805][ 49]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability35772AD74B9EFD082CE1BCA722B4677A.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-16.45.22:806][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-16.45.22:806][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-16.45.22:806][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-16.45.22:809][ 49]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-16.45.22:810][ 49]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_SlashDA561A034A8915316D0A13876F866D8F.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-16.45.22:811][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/AbilityEffect] ([2] browsable assets)...
+[2024.10.02-16.45.22:811][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/AbilityEffect]
+[2024.10.02-16.45.22:811][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/AbilityEffect" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/AbilityEffect.uasset" SILENT=true
+[2024.10.02-16.45.22:814][ 49]LogSavePackage: Moving output files for package: /Game/Abilities/AbilityEffect
+[2024.10.02-16.45.22:814][ 49]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect1A4716E347071666AB8342A67E708332.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/AbilityEffect.uasset'
+[2024.10.02-16.45.22:827][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.586 ms (total: 1.12 sec)
+[2024.10.02-16.45.22:961][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-16.45.22:985][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-16.45.23:007][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.02-16.45.23:025][ 49]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: Display: Starting to validate 3 assets
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: Enabled validators:
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-16.45.23:025][ 49]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.45.23:025][ 49]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-16.45.23:025][ 49]LogContentValidation: Display: Validating asset /Game/Abilities/AbilityEffect.AbilityEffect
+[2024.10.02-16.45.23:025][ 49]AssetCheck: /Game/Abilities/AbilityEffect Validating asset
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash_C' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.SKEL_AbilityEffect_Slash_C' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.SKEL_AbilityEffect_Slash_C:UserConstructionScript' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogMetaData: Removing '/Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Abilities/Effects/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.45.32:184][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.45.32:216][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-16.45.32:216][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/AbilityEffect_Slash]
+[2024.10.02-16.45.32:216][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-16.45.32:219][442]LogSavePackage: Moving output files for package: /Game/Abilities/AbilityEffect_Slash
+[2024.10.02-16.45.32:219][442]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash95D4DE894CD2AECD485CD285113E3125.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/AbilityEffect_Slash.uasset'
+[2024.10.02-16.45.32:233][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.809 ms (total: 1.17 sec)
+[2024.10.02-16.45.32:263][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-16.45.32:286][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-16.45.32:307][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.02-16.45.32:324][442]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.02-16.45.32:324][442]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.45.32:324][442]LogContentValidation: Enabled validators:
+[2024.10.02-16.45.32:324][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.45.32:324][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.45.32:324][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.45.32:324][442]LogContentValidation: Display: Validating asset /Game/Abilities/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.45.32:325][442]AssetCheck: /Game/Abilities/AbilityEffect_Slash Validating asset
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.Ability_Slash:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.SKEL_Ability_Slash_C:UserConstructionScript' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.SKEL_Ability_Slash_C' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.Ability_Slash_C' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.Ability_Slash:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.Ability_Slash:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.Ability_Slash:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.SKEL_Ability_Slash_C:ReceiveTick' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.SKEL_Ability_Slash_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:406][888]LogMetaData: Removing '/Game/Abilities/Ability/Ability_Slash.SKEL_Ability_Slash_C:ReceiveBeginPlay' ref from Metadata '/Game/Abilities/Ability_Slash.PackageMetaData'
+[2024.10.02-16.46.02:417][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.46.02:445][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.46.02:445][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-16.46.02:445][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-16.46.02:448][888]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-16.46.02:448][888]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash5F6BE5C94FA343EE95600B82542B08D2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-16.46.02:461][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.213 ms (total: 1.21 sec)
+[2024.10.02-16.46.02:491][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-16.46.02:514][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.02-16.46.02:535][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.02-16.46.02:552][888]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.02-16.46.02:552][888]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.46.02:552][888]LogContentValidation: Enabled validators:
+[2024.10.02-16.46.02:552][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.46.02:552][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.46.02:552][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.46.02:552][888]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-16.46.02:552][888]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash_C' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.SKEL_AbilityEffect_Slash_C' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.SKEL_AbilityEffect_Slash_C:UserConstructionScript' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogMetaData: Removing '/Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Abilities/AbilityEffect_Slash.PackageMetaData'
+[2024.10.02-16.46.11:598][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.46.11:634][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-16.46.11:634][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-16.46.11:634][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-16.46.11:637][ 71]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-16.46.11:637][ 71]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash32542CC1419ACA014BB08FA866F43955.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-16.46.11:649][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.347 ms (total: 1.27 sec)
+[2024.10.02-16.46.11:679][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-16.46.11:701][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-16.46.11:722][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.02-16.46.11:763][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: Enabled validators:
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.46.11:763][ 71]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.46.11:763][ 71]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-16.46.15:378][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-16.46.18:046][271]LogSlate: Window 'Ability_Slash' being destroyed
+[2024.10.02-16.46.55:383][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability.Ability
+[2024.10.02-16.47.08:985][639]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.47.08:985][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.47.09:053][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-16.49.30:299][794]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.02-16.49.30:308][794]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.02-16.49.30:317][795]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.02-16.49.32:836][ 98]LogContentBrowser: Attempting asset rename: NewFolder -> Icons
+[2024.10.02-16.49.32:836][ 98]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.02-16.49.46:387][422]LogContentBrowser: Attempting asset rename: Icons -> Thumbnail
+[2024.10.02-16.50.02:920][950]LogInterchangeEngine: [Pending] Importing
+[2024.10.02-16.50.02:920][950]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/conal/Downloads/quick-slash.png]
+[2024.10.02-16.50.02:961][950]LogInterchangeEngine: [Pending] Importing
+[2024.10.02-16.50.03:397][953]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.10.02-16.50.03:729][953]LogTexture: Display: Building textures: /Game/Abilities/Thumbnail/quick-slash.quick-slash (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Fast
+[2024.10.02-16.50.03:988][954]LogInterchangeEngine: Display: Interchange import completed [C:/Users/conal/Downloads/quick-slash.png]
+[2024.10.02-16.50.03:999][954]LogInterchangeEngine: [Success] Import Done
+[2024.10.02-16.50.04:068][954]LogInterchangeEngine: [Success] Import Done
+[2024.10.02-16.51.11:925][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.02-16.51.52:088][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-16.51.52:092][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2024.10.02-16.51.52:092][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.51.52:092][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-16.51.52:092][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability/Ability_Slash_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-16.51.52:096][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Ability/Ability_Slash_Auto2
+[2024.10.02-16.51.52:096][ 40]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash_Auto21A042CC846D53E42B6D0B789CDD6E204.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Ability/Ability_Slash_Auto2.uasset'
+[2024.10.02-16.51.52:097][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abilities/Thumbnail/quick-slash] ([1] browsable assets)...
+[2024.10.02-16.51.52:099][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Abilities/Thumbnail/quick-slash.quick-slash]
+[2024.10.02-16.51.52:099][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Thumbnail/quick-slash]
+[2024.10.02-16.51.52:099][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Thumbnail/quick-slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Thumbnail/quick-slash_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-16.51.52:133][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Thumbnail/quick-slash_Auto2
+[2024.10.02-16.51.52:133][ 40]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/quick-slash_Auto24B1DAD304DCB07B425ADCFAC2A35B27F.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Thumbnail/quick-slash_Auto2.uasset'
+[2024.10.02-16.51.52:133][ 40]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.10.02-16.51.56:362][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/AbilityEffect.AbilityEffect
+[2024.10.02-16.52.10:235][ 40]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.52.10:235][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.52.10:291][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-16.52.15:278][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.52.32:185][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/AbilityEffect.AbilityEffect
+[2024.10.02-16.52.41:591][574]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.52.41:591][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.52.41:613][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/AbilityEffect.AbilityEffect
+[2024.10.02-16.52.41:763][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-16.52.47:625][264]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.52.47:625][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.52.47:681][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-16.52.49:146][427]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.02-16.52.49:146][427]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.52.49:146][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.52.49:203][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-16.53.07:792][505]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability.Ability
+[2024.10.02-16.54.27:940][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.54.27:972][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.54.27:972][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-16.54.27:972][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-16.54.27:975][352]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-16.54.27:976][352]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash787C1C7A411DEB295B880796179908A6.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-16.54.27:986][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.679 ms (total: 1.31 sec)
+[2024.10.02-16.54.28:025][352]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.54.28:025][352]LogContentValidation: Enabled validators:
+[2024.10.02-16.54.28:025][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.54.28:025][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.54.28:025][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.54.28:025][352]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-16.54.28:026][352]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-16.54.48:017][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-16.54.48:054][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-16.54.48:054][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-16.54.48:054][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-16.54.48:058][ 33]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-16.54.48:059][ 33]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash926E6193440FCB5940ADE7B52F44CCD2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-16.54.48:072][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.939 ms (total: 1.37 sec)
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: Enabled validators:
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-16.54.48:103][ 33]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-16.54.48:103][ 33]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-16.54.48:411][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.02-16.54.49:700][209]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.54.49:700][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.54.49:757][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-16.54.53:127][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.55.00:016][569]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-16.55.00:016][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-16.55.00:038][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-16.55.00:184][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-17.02.31:587][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.02-17.02.31:605][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.02.31:641][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.02.31:642][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.02.31:642][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-17.02.31:649][635]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-17.02.31:649][635]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash1BF3B4554B135B64388EEBB347A6D423.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-17.02.31:650][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Thumbnail/quick-slash] ([1] browsable assets)...
+[2024.10.02-17.02.31:650][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Thumbnail/quick-slash]
+[2024.10.02-17.02.31:650][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Thumbnail/quick-slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Thumbnail/quick-slash.uasset" SILENT=true
+[2024.10.02-17.02.31:714][635]LogSavePackage: Moving output files for package: /Game/Abilities/Thumbnail/quick-slash
+[2024.10.02-17.02.31:714][635]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/quick-slash978C49984167147BD8934C8CB7247DD6.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Thumbnail/quick-slash.uasset'
+[2024.10.02-17.02.31:726][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.023 ms (total: 1.49 sec)
+[2024.10.02-17.02.31:780][635]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.02-17.02.31:780][635]LogContentValidation: Enabled validators:
+[2024.10.02-17.02.31:780][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.02.31:780][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.02.31:780][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.02.31:780][635]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.02.31:780][635]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-17.02.31:780][635]LogContentValidation: Display: Validating asset /Game/Abilities/Thumbnail/quick-slash.quick-slash
+[2024.10.02-17.02.31:780][635]AssetCheck: /Game/Abilities/Thumbnail/quick-slash Validating asset
+[2024.10.02-17.02.33:221][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-17.02.34:521][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.02.34:558][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.02.34:558][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.02.34:558][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-17.02.34:565][944]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-17.02.34:565][944]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash0DA34FA5469C395D03C3F69522621832.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-17.02.34:579][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.635 ms (total: 1.54 sec)
+[2024.10.02-17.02.34:613][944]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.02.34:613][944]LogContentValidation: Enabled validators:
+[2024.10.02-17.02.34:613][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.02.34:613][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.02.34:613][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.02.34:613][944]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.02.34:613][944]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-17.04.13:432][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.02-17.04.13:435][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2024.10.02-17.04.13:435][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.04.13:435][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.04.13:442][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abilities/Effects/AbilityEffect_Slash_Auto3
+[2024.10.02-17.04.13:442][ 43]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash_Auto3C14B9A524A1B762BE14EEFAF697780A3.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/Abilities/Effects/AbilityEffect_Slash_Auto3.uasset'
+[2024.10.02-17.04.13:443][ 43]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.10.02-17.04.27:711][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.04.27:749][ 86]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.04.27:749][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.04.27:749][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-17.04.27:756][ 86]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-17.04.27:757][ 86]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash1303E0C94AFB59D7472662A1033C84ED.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-17.04.27:765][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.251 ms (total: 1.60 sec)
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: Enabled validators:
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.04.27:804][ 86]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.04.27:805][ 86]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-17.04.31:266][495]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.04.31:266][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.04.31:327][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-17.04.33:273][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.02-17.04.33:273][724]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.04.33:273][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.04.33:341][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-17.04.51:642][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/AbilityEffect.AbilityEffect
+[2024.10.02-17.05.00:491][ 83]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.05.00:491][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.05.00:550][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.02-17.05.11:337][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-17.05.22:719][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.02-17.05.23:300][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.05.23:339][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-17.05.23:339][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-17.05.23:339][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-17.05.23:343][883]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-17.05.23:344][883]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash31C973044586D9ADE88C9A84A1B2274D.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-17.05.23:351][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.093 ms (total: 1.65 sec)
+[2024.10.02-17.05.23:388][883]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.05.23:388][883]LogContentValidation: Enabled validators:
+[2024.10.02-17.05.23:388][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.05.23:388][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.05.23:388][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.05.23:388][883]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-17.05.23:388][883]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-17.07.31:162][170]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.07.31:162][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.07.31:219][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.02-17.08.37:153][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-17.08.37:158][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:158][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_1.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.08.37:160][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:160][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.08.37:161][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:161][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.08.37:162][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:162][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.08.37:182][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:183][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.08.37:184][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:184][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.08.37:185][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.08.37:185][760]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.08.37:880][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.08.37:919][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.10.02-17.08.37:999][836]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.10.02-17.08.37:999][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.10.02-17.08.37:999][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.10.02-17.08.38:015][836]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.10.02-17.08.38:015][836]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/BP_TopDownCharacterF76A98454F2DC0F06F6EF28B07A62A25.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.10.02-17.08.38:023][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.826 ms (total: 1.79 sec)
+[2024.10.02-17.08.38:064][836]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.08.38:064][836]LogContentValidation: Enabled validators:
+[2024.10.02-17.08.38:064][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.08.38:064][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.08.38:064][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.08.38:064][836]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.10.02-17.08.38:064][836]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.10.02-17.08.51:134][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.09.06:557][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-17.09.07:208][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.09.07:245][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.09.07:245][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.09.07:245][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-17.09.07:252][465]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-17.09.07:252][465]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_Slash4E2D0C4C47EC084FD2E5C9ABEA7B38A2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-17.09.07:261][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.705 ms (total: 1.85 sec)
+[2024.10.02-17.09.07:300][465]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.09.07:300][465]LogContentValidation: Enabled validators:
+[2024.10.02-17.09.07:300][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.09.07:300][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.09.07:300][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.09.07:300][465]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.09.07:300][465]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-17.09.34:620][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-17.09.35:232][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.09.35:272][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/AbilityEffect_Slash] ([2] browsable assets)...
+[2024.10.02-17.09.35:272][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/AbilityEffect_Slash]
+[2024.10.02-17.09.35:272][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/AbilityEffect_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset" SILENT=true
+[2024.10.02-17.09.35:303][811]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/AbilityEffect_Slash
+[2024.10.02-17.09.35:304][811]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/AbilityEffect_SlashC2DE21E042E68FD023879BBF0CFF310F.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/AbilityEffect_Slash.uasset'
+[2024.10.02-17.09.35:312][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.071 ms (total: 1.93 sec)
+[2024.10.02-17.09.35:342][811]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.09.35:342][811]LogContentValidation: Enabled validators:
+[2024.10.02-17.09.35:342][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.09.35:342][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.09.35:342][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.09.35:342][811]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/AbilityEffect_Slash.AbilityEffect_Slash
+[2024.10.02-17.09.35:342][811]AssetCheck: /Game/Abilities/Effects/AbilityEffect_Slash Validating asset
+[2024.10.02-17.09.45:882][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-17.09.45:891][275]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-17.09.45:891][275]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-17.09.45:893][275]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.000 ms (total: 58.213 ms)
+[2024.10.02-17.09.45:902][275]LogPlayLevel: [PlayLevel] Compiling Ability before play...
+[2024.10.02-17.09.45:906][275]LogPlayLevel: [PlayLevel]   Compiling Ability_Slash as a dependent...
+[2024.10.02-17.09.45:917][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:917][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.09.45:918][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:919][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.09.45:920][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:920][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.09.45:938][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:938][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.09.45:939][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:939][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.09.45:940][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.45:940][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.09.45:965][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.02-17.09.45:992][275]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (2 blueprints)
+[2024.10.02-17.09.45:993][275]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.09.45:998][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004707s)
+[2024.10.02-17.09.45:998][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004745s)
+[2024.10.02-17.09.46:014][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.02-17.09.46:016][275]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-17.09.46:017][275]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-17.09.46:017][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-17.09.46:017][275]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-17.09.46:017][275]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-17.09.46:018][275]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-17.09.46:018][275]LogWorldPartition: Display: WorldPartition initialize took 1.655 ms (total: 1.27 sec)
+[2024.10.02-17.09.46:018][275]LogPlayLevel: PIE: World Init took: (0.002935s)
+[2024.10.02-17.09.46:039][275]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-17.09.46:039][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-17.09.46:039][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-17.09.46:039][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-17.09.46:039][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-17.09.46:039][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-17.09.46:041][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-17.09.46:057][275]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-17.09.46:057][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-17.09.46:057][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-17.09.46:057][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-17.09.46:057][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.02-17.09.46:057][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.02-17.09.46:059][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.02-17.09.46:059][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.02-17.09.46:059][275]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.02-17.09.46:059][275]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2024.10.02-17.09.46:059][275]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.02-17.09.46:065][275]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-17.09.46:067][275]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.02-18.09.46
+[2024.10.02-17.09.46:067][275]LogWorld: Bringing up level for play took: 0.001643
+[2024.10.02-17.09.46:070][275]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.10.02-17.09.46:071][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.09.46:071][275]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.09.46:110][275]PIE: Server logged in
+[2024.10.02-17.09.46:111][275]PIE: Play in editor total start time 0.224 seconds.
+[2024.10.02-17.09.51:326][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.09.51:326][490]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.09.51:326][490]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.09.51:326][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.09.51:326][490]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-17.09.51:327][490]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-17.09.51:327][490]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-17.09.51:327][490]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-17.09.51:329][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-17.09.51:338][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.09.51:359][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.09.51:360][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.02-17.09.51:360][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.02-17.09.51:361][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.02-17.09.51:390][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.02-17.09.51:485][491]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.10.02-17.10.02:536][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-17.10.02:546][543]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-17.10.02:546][543]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-17.10.02:548][543]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.064 ms (total: 60.277 ms)
+[2024.10.02-17.10.02:550][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-17.10.02:550][543]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.10.02:554][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003861s)
+[2024.10.02-17.10.02:554][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003900s)
+[2024.10.02-17.10.02:572][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.02-17.10.02:576][543]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-17.10.02:577][543]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-17.10.02:577][543]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-17.10.02:577][543]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-17.10.02:577][543]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-17.10.02:579][543]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-17.10.02:579][543]LogWorldPartition: Display: WorldPartition initialize took 1.549 ms (total: 1.27 sec)
+[2024.10.02-17.10.02:579][543]LogPlayLevel: PIE: World Init took: (0.002783s)
+[2024.10.02-17.10.02:599][543]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-17.10.02:599][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-17.10.02:599][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-17.10.02:599][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-17.10.02:599][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-17.10.02:599][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-17.10.02:601][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-17.10.02:615][543]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-17.10.02:615][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-17.10.02:615][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-17.10.02:615][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-17.10.02:616][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.02-17.10.02:616][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.02-17.10.02:617][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.02-17.10.02:617][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.02-17.10.02:617][543]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.02-17.10.02:617][543]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.10.02-17.10.02:617][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.02-17.10.02:620][543]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-17.10.02:621][543]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.02-18.10.02
+[2024.10.02-17.10.02:622][543]LogWorld: Bringing up level for play took: 0.001631
+[2024.10.02-17.10.02:624][543]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.10.02-17.10.02:625][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.10.02:625][543]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.10.02:650][543]PIE: Server logged in
+[2024.10.02-17.10.02:650][543]PIE: Play in editor total start time 0.108 seconds.
+[2024.10.02-17.10.13:306][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.10.13:307][985]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.10.13:307][985]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.10.13:307][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.10.13:307][985]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-17.10.13:307][985]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-17.10.13:307][985]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-17.10.13:307][985]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-17.10.13:310][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-17.10.13:318][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.10.13:340][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.10.13:340][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.02-17.10.13:340][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.02-17.10.13:343][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.02-17.10.13:350][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.02-17.10.13:449][986]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.10.02-17.10.31:073][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability.Ability
+[2024.10.02-17.11.20:749][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/StatsComponent.StatsComponent
+[2024.10.02-17.11.55:442][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-17.12.11:513][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.12.11:553][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-17.12.11:553][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-17.12.11:553][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-17.12.11:557][269]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-17.12.11:557][269]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash20B018124B33B217E819DC96C19B0112.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-17.12.11:565][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.354 ms (total: 1.98 sec)
+[2024.10.02-17.12.11:600][269]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.12.11:600][269]LogContentValidation: Enabled validators:
+[2024.10.02-17.12.11:600][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.12.11:600][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.12.11:600][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.12.11:600][269]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-17.12.11:600][269]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-17.12.12:256][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.02-17.12.12:261][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:261][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.12.12:262][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:262][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.12.12:263][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:263][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.12.12:269][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:269][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.12.12:270][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:270][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.12.12:271][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.12:271][339]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.12.13:184][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.12.13:214][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability/Ability_Slash] ([2] browsable assets)...
+[2024.10.02-17.12.13:214][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability/Ability_Slash]
+[2024.10.02-17.12.13:214][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability/Ability_Slash" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset" SILENT=true
+[2024.10.02-17.12.13:217][438]LogSavePackage: Moving output files for package: /Game/Abilities/Ability/Ability_Slash
+[2024.10.02-17.12.13:218][438]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability_Slash3DB5EAE64A51FA94718B78879C7C22DE.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability/Ability_Slash.uasset'
+[2024.10.02-17.12.13:227][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.621 ms (total: 2.02 sec)
+[2024.10.02-17.12.13:262][438]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.12.13:262][438]LogContentValidation: Enabled validators:
+[2024.10.02-17.12.13:262][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.12.13:262][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.12.13:262][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.12.13:262][438]LogContentValidation: Display: Validating asset /Game/Abilities/Ability/Ability_Slash.Ability_Slash
+[2024.10.02-17.12.13:262][438]AssetCheck: /Game/Abilities/Ability/Ability_Slash Validating asset
+[2024.10.02-17.12.25:124][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-17.12.25:134][604]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-17.12.25:134][604]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-17.12.25:136][604]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.003 ms (total: 62.280 ms)
+[2024.10.02-17.12.25:138][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-17.12.25:138][604]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.12.25:142][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003829s)
+[2024.10.02-17.12.25:142][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003864s)
+[2024.10.02-17.12.25:161][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.02-17.12.25:162][604]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-17.12.25:164][604]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-17.12.25:164][604]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-17.12.25:164][604]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-17.12.25:164][604]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-17.12.25:165][604]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-17.12.25:165][604]LogWorldPartition: Display: WorldPartition initialize took 1.551 ms (total: 1.27 sec)
+[2024.10.02-17.12.25:165][604]LogPlayLevel: PIE: World Init took: (0.002882s)
+[2024.10.02-17.12.25:187][604]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-17.12.25:187][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-17.12.25:187][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-17.12.25:187][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-17.12.25:187][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-17.12.25:187][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-17.12.25:188][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-17.12.25:202][604]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-17.12.25:202][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-17.12.25:202][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-17.12.25:202][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-17.12.25:204][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.02-17.12.25:204][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.02-17.12.25:205][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.02-17.12.25:205][604]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.02-17.12.25:205][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.02-17.12.25:205][604]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownMap'.
+[2024.10.02-17.12.25:205][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.02-17.12.25:207][604]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-17.12.25:209][604]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.02-18.12.25
+[2024.10.02-17.12.25:209][604]LogWorld: Bringing up level for play took: 0.001581
+[2024.10.02-17.12.25:212][604]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.10.02-17.12.25:213][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.12.25:213][604]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.12.25:237][604]PIE: Server logged in
+[2024.10.02-17.12.25:238][604]PIE: Play in editor total start time 0.108 seconds.
+[2024.10.02-17.12.31:266][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.12.31:266][855]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.12.31:266][855]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.12.31:266][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.12.31:267][855]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-17.12.31:267][855]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-17.12.31:267][855]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-17.12.31:267][855]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-17.12.31:269][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-17.12.31:277][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.12.31:297][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.12.31:297][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.02-17.12.31:298][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.02-17.12.31:299][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.02-17.12.31:305][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.02-17.12.31:402][856]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.10.02-17.13.46:065][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.02-17.13.46:087][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:087][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.13.46:088][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:088][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.13.46:089][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:089][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.13.46:097][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:097][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.13.46:098][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:098][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.13.46:099][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.46:099][171]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.13.46:764][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.13.46:795][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-17.13.46:795][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-17.13.46:795][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-17.13.46:805][242]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-17.13.46:805][242]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability1CDB446E4129F64697CBFFADF1948454.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-17.13.46:813][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.416 ms (total: 2.07 sec)
+[2024.10.02-17.13.46:850][242]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.13.46:851][242]LogContentValidation: Enabled validators:
+[2024.10.02-17.13.46:851][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.13.46:851][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.13.46:851][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.13.46:851][242]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-17.13.46:851][242]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-17.13.56:501][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-17.13.56:509][449]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-17.13.56:509][449]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-17.13.56:511][449]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1.940 ms (total: 64.221 ms)
+[2024.10.02-17.13.56:513][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-17.13.56:513][449]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.13.56:517][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003864s)
+[2024.10.02-17.13.56:517][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003901s)
+[2024.10.02-17.13.56:536][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.02-17.13.56:539][449]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-17.13.56:540][449]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-17.13.56:540][449]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-17.13.56:540][449]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-17.13.56:540][449]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-17.13.56:541][449]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-17.13.56:542][449]LogWorldPartition: Display: WorldPartition initialize took 1.592 ms (total: 1.27 sec)
+[2024.10.02-17.13.56:542][449]LogPlayLevel: PIE: World Init took: (0.002776s)
+[2024.10.02-17.13.56:563][449]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-17.13.56:563][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-17.13.56:563][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-17.13.56:563][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-17.13.56:563][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-17.13.56:563][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-17.13.56:565][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-17.13.56:578][449]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-17.13.56:579][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-17.13.56:579][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-17.13.56:579][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-17.13.56:579][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.02-17.13.56:579][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.02-17.13.56:581][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.02-17.13.56:581][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.02-17.13.56:581][449]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.02-17.13.56:581][449]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownMap'.
+[2024.10.02-17.13.56:581][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.02-17.13.56:583][449]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-17.13.56:585][449]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.02-18.13.56
+[2024.10.02-17.13.56:585][449]LogWorld: Bringing up level for play took: 0.001461
+[2024.10.02-17.13.56:587][449]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.10.02-17.13.56:589][449]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.13.56:589][449]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.13.56:612][449]PIE: Server logged in
+[2024.10.02-17.13.56:613][449]PIE: Play in editor total start time 0.107 seconds.
+[2024.10.02-17.13.57:901][497]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.13.57:902][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.57:902][497]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.13.57:902][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.57:902][497]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.13.57:902][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.57:902][497]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.13.57:902][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.58:612][526]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.13.58:612][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.58:612][526]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.13.58:612][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.58:612][526]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.13.58:612][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.13.58:612][526]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.13.58:612][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.00:961][628]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.00:961][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.00:961][628]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.00:961][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.00:961][628]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.00:961][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.00:961][628]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.00:961][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:461][649]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.01:462][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:462][649]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.01:462][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:462][649]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.01:462][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:462][649]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.01:462][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:915][668]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.01:915][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:915][668]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.01:915][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:915][668]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.01:915][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.01:915][668]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.01:915][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:549][695]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.02:549][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:549][695]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.02:549][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:550][695]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.02:550][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:550][695]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.02:550][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:863][708]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.02:863][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:863][708]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.02:863][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:863][708]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.02:863][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.02:863][708]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.02:863][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.03:268][725]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.14.03:268][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.03:268][725]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:01EA
+[2024.10.02-17.14.03:268][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.03:268][725]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.14.03:268][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.03:268][725]LogScript: Warning: Accessed None trying to read property Caster
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:02D0
+[2024.10.02-17.14.03:268][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Caster". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.14.07:826][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.14.07:827][855]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.14.07:827][855]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.14.07:827][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.14.07:827][855]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-17.14.07:827][855]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-17.14.07:827][855]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-17.14.07:827][855]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-17.14.07:834][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-17.14.07:843][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.14.07:863][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-17.14.07:863][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.02-17.14.07:864][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.02-17.14.07:865][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.02-17.14.07:869][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.14.07:872][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-17.14.08:142][856]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.10.02-17.14.29:998][589]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-17.14.30:003][589]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-17.14.50:800][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.02-17.14.50:817][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:817][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.14.50:819][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:819][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.14.50:820][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:820][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.14.50:828][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:828][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.14.50:829][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:829][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.14.50:830][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.14.50:830][844]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.14.51:843][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.14.51:882][960]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-17.14.51:882][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-17.14.51:882][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-17.14.51:892][960]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-17.14.51:892][960]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability01F662174EC37747E66BF2A915787520.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-17.14.51:902][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.411 ms (total: 2.13 sec)
+[2024.10.02-17.14.51:931][960]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.14.51:931][960]LogContentValidation: Enabled validators:
+[2024.10.02-17.14.51:931][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.14.51:931][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.14.51:931][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.14.51:931][960]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-17.14.51:931][960]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-17.15.41:274][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-17.15.41:291][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:292][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.15.41:293][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:293][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.15.41:294][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:294][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.15.41:317][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:317][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.15.41:319][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:319][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.15.41:320][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.15.41:320][283]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.15.41:920][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.15.41:950][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Ability] ([2] browsable assets)...
+[2024.10.02-17.15.41:950][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Ability]
+[2024.10.02-17.15.41:950][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Ability" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset" SILENT=true
+[2024.10.02-17.15.41:960][344]LogSavePackage: Moving output files for package: /Game/Abilities/Ability
+[2024.10.02-17.15.41:960][344]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Ability468363104CAC7ED04CB993A785717B30.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Ability.uasset'
+[2024.10.02-17.15.41:970][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.180 ms (total: 2.18 sec)
+[2024.10.02-17.15.41:999][344]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.15.41:999][344]LogContentValidation: Enabled validators:
+[2024.10.02-17.15.41:999][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.15.41:999][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.15.41:999][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.15.41:999][344]LogContentValidation: Display: Validating asset /Game/Abilities/Ability.Ability
+[2024.10.02-17.15.41:999][344]AssetCheck: /Game/Abilities/Ability Validating asset
+[2024.10.02-17.16.00:257][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.02-17.16.00:261][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:261][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_2.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.16.00:262][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:262][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.16.00:264][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:264][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.16.00:264][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:264][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.16.00:286][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:286][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.16.00:287][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:287][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.10.02-17.16.00:288][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.00:288][149]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_TopDownCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.16.00:703][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-17.16.00:744][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.10.02-17.16.00:826][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.10.02-17.16.00:826][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.10.02-17.16.00:826][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.10.02-17.16.00:841][191]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.10.02-17.16.00:842][191]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/BP_TopDownCharacterB148B4E8468AA117BF8FC2BA69377453.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.10.02-17.16.00:851][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.483 ms (total: 2.33 sec)
+[2024.10.02-17.16.00:883][191]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-17.16.00:883][191]LogContentValidation: Enabled validators:
+[2024.10.02-17.16.00:883][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-17.16.00:883][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-17.16.00:883][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-17.16.00:883][191]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.10.02-17.16.00:883][191]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.10.02-17.16.05:305][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-17.16.05:313][464]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-17.16.05:313][464]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-17.16.05:315][464]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1.984 ms (total: 66.205 ms)
+[2024.10.02-17.16.05:317][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-17.16.05:318][464]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.16.05:321][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003859s)
+[2024.10.02-17.16.05:321][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003898s)
+[2024.10.02-17.16.05:341][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.02-17.16.05:343][464]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-17.16.05:344][464]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-17.16.05:344][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-17.16.05:344][464]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-17.16.05:344][464]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-17.16.05:346][464]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-17.16.05:346][464]LogWorldPartition: Display: WorldPartition initialize took 1.554 ms (total: 1.27 sec)
+[2024.10.02-17.16.05:346][464]LogPlayLevel: PIE: World Init took: (0.002786s)
+[2024.10.02-17.16.05:366][464]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-17.16.05:366][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-17.16.05:366][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-17.16.05:366][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-17.16.05:366][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-17.16.05:367][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-17.16.05:368][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-17.16.05:382][464]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-17.16.05:383][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-17.16.05:383][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-17.16.05:383][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-17.16.05:384][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.02-17.16.05:384][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.02-17.16.05:385][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.02-17.16.05:385][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.02-17.16.05:385][464]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.02-17.16.05:385][464]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownMap'.
+[2024.10.02-17.16.05:385][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.02-17.16.05:388][464]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-17.16.05:389][464]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.02-18.16.05
+[2024.10.02-17.16.05:389][464]LogWorld: Bringing up level for play took: 0.001474
+[2024.10.02-17.16.05:391][464]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.10.02-17.16.05:393][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-17.16.05:393][464]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-17.16.05:416][464]PIE: Server logged in
+[2024.10.02-17.16.05:417][464]PIE: Play in editor total start time 0.106 seconds.
+[2024.10.02-17.16.06:569][510]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.06:569][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.06:569][510]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_0
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.06:569][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.08:182][579]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.08:182][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.08:182][579]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_1
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.08:182][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.09:122][619]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.09:122][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.09:122][619]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_2
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.09:122][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.10:213][666]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.10:214][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.10:214][666]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_3
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.10:214][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.10:992][699]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.10:992][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.10:992][699]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_4
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.10:992][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.11:884][737]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.11:884][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.11:884][737]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_5
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.11:884][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.13:213][794]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.13:213][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.13:214][794]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_6
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.13:214][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.13:808][819]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.13:808][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.13:808][819]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_7
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.13:808][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:079][830]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_8
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.14:079][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:079][830]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_8
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.14:079][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:279][838]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_9
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.14:279][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:279][838]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_9
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.14:279][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:528][848]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_10
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.14:528][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:528][848]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_10
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.14:528][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:802][859]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_11
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:019B
+[2024.10.02-17.16.14:802][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.14:803][859]LogScript: Warning: Accessed None trying to read property IntendedTarget
+	Ability_Slash_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Ability_Slash_C_11
+	Function /Game/Abilities/Ability.Ability_C:ExecuteUbergraph_Ability:0281
+[2024.10.02-17.16.14:803][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property IntendedTarget". Node:  SpawnActor Graph:  EventGraph Function:  Execute Ubergraph Ability Blueprint:  Ability
+[2024.10.02-17.16.16:448][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.16.16:448][929]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-17.16.16:448][929]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-17.16.16:449][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.16.16:449][929]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-17.16.16:449][929]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-17.16.16:449][929]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-17.16.16:449][929]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-17.16.16:451][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-17.16.16:459][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-17.16.16:480][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-17.16.16:480][929]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.02-17.16.16:480][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.02-17.16.16:481][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.02-17.16.16:502][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-17.16.16:505][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.02-17.16.16:694][930]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.10.02-17.16.25:366][321]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-17.16.25:374][321]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-17.16.43:095][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
