@@ -2274,3 +2274,468 @@ Continue: Skip saving this asset only.
 [2024.10.02-22.35.15:453][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.10.02-22.35.15:453][981]LogContentValidation: Display: Validating asset /Game/TopDown/Maps/TopDownMap.TopDownMap
 [2024.10.02-22.35.15:453][981]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2024.10.02-22.37.06:162][ 28]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.02-22.37.16:503][248]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.02-22.37.16:536][248]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.02-22.37.16:546][248]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.02-22.37.16:589][249]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.02-22.37.26:978][696]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_DamageNumber
+[2024.10.02-22.37.27:003][696]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.02-22.37.38:735][788]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.37.38:796][788]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.02-22.37.40:234][788]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.02-22.38.57:178][695]LogEditorTransaction: Undo Resize Widget
+[2024.10.02-22.39.07:146][741]LogEditorTransaction: Undo Edit font size
+[2024.10.02-22.39.56:523][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.39.56:554][209]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.39.56:560][209]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.39.56:560][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.39.56:560][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.39.56:565][209]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.39.56:565][209]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumberB42F9EDB493EE4A6D8618E91A823FC41.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.39.56:579][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.332 ms (total: 8.42 sec)
+[2024.10.02-22.39.56:608][209]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.39.56:609][209]LogContentValidation: Enabled validators:
+[2024.10.02-22.39.56:609][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.39.56:609][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.39.56:609][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.39.56:609][209]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.39.56:609][209]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.39.57:006][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.10.02-22.42.02:487][ 15]Cmd: TRANSACTION UNDO
+[2024.10.02-22.42.02:506][ 15]LogEditorTransaction: Undo Set Key Value
+[2024.10.02-22.42.06:201][298]Cmd: TRANSACTION UNDO
+[2024.10.02-22.42.06:201][298]LogEditorTransaction: Undo Set Key Value
+[2024.10.02-22.42.09:692][554]Cmd: TRANSACTION UNDO
+[2024.10.02-22.42.09:693][554]LogEditorTransaction: Undo Set Key Value
+[2024.10.02-22.44.16:256][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.44.16:288][714]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.44.16:291][714]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.44.16:291][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.44.16:291][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.44.16:311][714]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.44.16:312][714]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber24FF9DF9435647DBD1E32B8037FD7ECF.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.44.16:321][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.028 ms (total: 8.48 sec)
+[2024.10.02-22.44.16:357][714]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.44.16:357][714]LogContentValidation: Enabled validators:
+[2024.10.02-22.44.16:357][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.44.16:357][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.44.16:357][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.44.16:357][714]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.44.16:358][714]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.44.17:014][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.02-22.46.05:410][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.46.05:447][804]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.46.05:450][804]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.46.05:450][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.46.05:450][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.46.05:457][804]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.46.05:458][804]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber0D33A57E4A1DD2A47D5C66AE09E1C89F.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.46.05:468][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.029 ms (total: 8.54 sec)
+[2024.10.02-22.46.05:509][804]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.46.05:509][804]LogContentValidation: Enabled validators:
+[2024.10.02-22.46.05:509][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.46.05:509][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.46.05:509][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.46.05:509][804]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.46.05:509][804]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.46.05:894][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.02-22.48.59:085][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.02-22.48.59:088][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2024.10.02-22.48.59:089][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.48.59:091][712]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.48.59:091][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.48.59:091][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/UI/W_DamageNumber_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.02-22.48.59:098][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_DamageNumber_Auto4
+[2024.10.02-22.48.59:098][712]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber_Auto48F870533407C10E9C8F30588F6981450.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/UI/W_DamageNumber_Auto4.uasset'
+[2024.10.02-22.48.59:100][712]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.10.02-22.49.56:145][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.02-22.49.56:848][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.49.56:880][163]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.49.56:883][163]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.49.56:883][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.49.56:883][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.49.56:889][163]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.49.56:890][163]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber5A49C912495008BABCFB999C9F0088BA.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.49.56:901][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.550 ms (total: 8.59 sec)
+[2024.10.02-22.49.56:943][163]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.49.56:943][163]LogContentValidation: Enabled validators:
+[2024.10.02-22.49.56:943][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.49.56:943][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.49.56:943][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.49.56:943][163]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.49.56:943][163]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.51.11:876][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.02-22.51.12:361][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.51.12:390][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.51.12:392][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.51.12:392][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.51.12:392][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.51.12:398][727]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.51.12:399][727]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber8E283AAE46913FA8265FC2B71A88B3F4.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.51.12:407][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.229 ms (total: 8.64 sec)
+[2024.10.02-22.51.12:445][727]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.51.12:445][727]LogContentValidation: Enabled validators:
+[2024.10.02-22.51.12:445][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.51.12:445][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.51.12:445][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.51.12:445][727]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.51.12:445][727]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.52.14:731][227]LogSlate: Took 0.017734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.02-22.52.32:004][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.10.02-22.55.58:517][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.02-22.55.59:025][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.55.59:060][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.55.59:061][ 33]LogScript: Warning: Accessed None trying to read property Actor
+	W_DamageNumber_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_DamageNumber_C_6
+	Function /Game/UI/W_DamageNumber.W_DamageNumber_C:ExecuteUbergraph_W_DamageNumber:0042
+[2024.10.02-22.55.59:087][ 33]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.55.59:087][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.55.59:087][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.55.59:096][ 33]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.55.59:097][ 33]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber168E17E640DB88E898B7A79A181A593C.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.55.59:107][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.727 ms (total: 8.72 sec)
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: Enabled validators:
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.55.59:151][ 33]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.55.59:151][ 33]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.56.56:927][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.02-22.56.57:324][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-22.56.57:364][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-22.56.57:364][992]LogScript: Warning: Accessed None trying to read property Actor
+	W_DamageNumber_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_DamageNumber_C_7
+	Function /Game/UI/W_DamageNumber.W_DamageNumber_C:ExecuteUbergraph_W_DamageNumber:0057
+[2024.10.02-22.56.57:374][992]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-22.56.57:374][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-22.56.57:374][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-22.56.57:384][992]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-22.56.57:385][992]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumberC4B0908448F546211AE77ABBAFEA1C53.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-22.56.57:394][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.924 ms (total: 8.79 sec)
+[2024.10.02-22.56.57:426][992]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-22.56.57:426][992]LogContentValidation: Enabled validators:
+[2024.10.02-22.56.57:426][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-22.56.57:426][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-22.56.57:426][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-22.56.57:426][992]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-22.56.57:427][992]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-22.56.58:501][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-22.58.11:840][467]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-22.58.11:841][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-22.58.11:912][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.02-22.58.14:248][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.02-22.58.14:249][741]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-22.58.14:249][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-22.58.14:341][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-22.58.22:699][343]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.02-22.58.22:699][343]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-22.58.22:699][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-22.58.22:822][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.02-23.01.15:900][398]LogEditorTransaction: Undo Move Node
+[2024.10.02-23.01.17:601][558]LogEditorTransaction: Undo Move Nodes
+[2024.10.02-23.01.55:329][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.10.02-23.02.32:245][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.02-23.02.33:027][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.02.33:059][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-23.02.33:114][208]LogScript: Warning: Accessed None trying to read property Actor
+	W_DamageNumber_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_DamageNumber_C_8
+	Function /Game/UI/W_DamageNumber.W_DamageNumber_C:ExecuteUbergraph_W_DamageNumber:00B1
+[2024.10.02-23.02.33:138][208]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-23.02.33:138][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-23.02.33:138][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-23.02.33:150][208]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-23.02.33:151][208]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumberEB02C5F94A22FDA99EDDA2A1737F89D3.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-23.02.33:159][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.796 ms (total: 8.92 sec)
+[2024.10.02-23.02.33:197][208]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-23.02.33:197][208]LogContentValidation: Enabled validators:
+[2024.10.02-23.02.33:197][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-23.02.33:197][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-23.02.33:197][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-23.02.33:197][208]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-23.02.33:198][208]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-23.02.43:454][ 95]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-23.02.43:463][ 95]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-23.02.43:463][ 95]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-23.02.43:466][ 95]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.328 ms (total: 24.531 ms)
+[2024.10.02-23.02.43:468][ 95]LogPlayLevel: [PlayLevel] Compiling Dummy before play...
+[2024.10.02-23.02.43:536][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-23.02.43:558][ 95]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2024.10.02-23.02.43:558][ 95]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.02.43:562][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004402s)
+[2024.10.02-23.02.43:563][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004444s)
+[2024.10.02-23.02.43:581][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-23.02.43:583][ 95]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-23.02.43:584][ 95]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-23.02.43:584][ 95]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-23.02.43:584][ 95]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-23.02.43:584][ 95]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-23.02.43:586][ 95]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-23.02.43:586][ 95]LogWorldPartition: Display: WorldPartition initialize took 1.683 ms (total: 78.400 ms)
+[2024.10.02-23.02.43:586][ 95]LogPlayLevel: PIE: World Init took: (0.002989s)
+[2024.10.02-23.02.43:606][ 95]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-23.02.43:606][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-23.02.43:606][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-23.02.43:606][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-23.02.43:606][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-23.02.43:606][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-23.02.43:607][ 95]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-23.02.43:622][ 95]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-23.02.43:623][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-23.02.43:623][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-23.02.43:623][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-23.02.43:624][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.02-23.02.43:624][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.02-23.02.43:626][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.02-23.02.43:626][ 95]LogInit: FAudioDevice initialized with ID 12.
+[2024.10.02-23.02.43:626][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.02-23.02.43:626][ 95]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownMap'.
+[2024.10.02-23.02.43:626][ 95]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.02-23.02.43:629][ 95]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-23.02.43:631][ 95]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.03-00.02.43
+[2024.10.02-23.02.43:632][ 95]LogWorld: Bringing up level for play took: 0.002629
+[2024.10.02-23.02.43:634][ 95]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.10.02-23.02.43:635][ 95]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-23.02.43:635][ 95]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-23.02.43:659][ 95]PIE: Server logged in
+[2024.10.02-23.02.43:660][ 95]PIE: Play in editor total start time 0.199 seconds.
+[2024.10.02-23.03.14:288][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.03.14:288][369]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.03.14:288][369]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-23.03.14:288][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.03.14:288][369]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-23.03.14:289][369]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-23.03.14:289][369]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-23.03.14:289][369]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-23.03.14:311][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-23.03.14:320][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.03.14:341][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.03.14:342][369]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.02-23.03.14:342][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.02-23.03.14:344][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.02-23.03.14:351][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.02-23.03.14:425][370]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.10.02-23.03.20:947][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.02-23.03.20:956][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.03.21:012][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dummy] ([2] browsable assets)...
+[2024.10.02-23.03.21:065][444]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dummy.Dummy]
+[2024.10.02-23.03.21:065][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dummy]
+[2024.10.02-23.03.21:065][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dummy" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Dummy.uasset" SILENT=true
+[2024.10.02-23.03.21:073][444]LogSavePackage: Moving output files for package: /Game/Dummy
+[2024.10.02-23.03.21:074][444]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/DummyDBD64E6C4F0880BC3D5FE0801E1C81A1.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Dummy.uasset'
+[2024.10.02-23.03.21:075][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-23.03.21:075][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-23.03.21:075][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-23.03.21:087][444]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-23.03.21:088][444]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumberB984CF654FD4A48B430D5FA923426A01.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-23.03.21:099][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.580 ms (total: 9.07 sec)
+[2024.10.02-23.03.21:143][444]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.02-23.03.21:143][444]LogContentValidation: Enabled validators:
+[2024.10.02-23.03.21:143][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-23.03.21:143][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-23.03.21:143][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-23.03.21:143][444]LogContentValidation: Display: Validating asset /Game/Dummy.Dummy
+[2024.10.02-23.03.21:143][444]AssetCheck: /Game/Dummy Validating asset
+[2024.10.02-23.03.21:143][444]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-23.03.21:144][444]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-23.05.53:718][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.02-23.05.54:794][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.05.54:833][381]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-23.05.54:834][381]LogScript: Warning: Accessed None trying to read property Actor
+	W_DamageNumber_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_DamageNumber_C_9
+	Function /Game/UI/W_DamageNumber.W_DamageNumber_C:ExecuteUbergraph_W_DamageNumber:0126
+[2024.10.02-23.05.54:837][381]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-23.05.54:837][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-23.05.54:837][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-23.05.54:849][381]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-23.05.54:850][381]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber82BD748945364D22A2562B8DBD93CEC3.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-23.05.54:860][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.882 ms (total: 9.13 sec)
+[2024.10.02-23.05.54:903][381]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-23.05.54:903][381]LogContentValidation: Enabled validators:
+[2024.10.02-23.05.54:903][381]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-23.05.54:903][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-23.05.54:903][381]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-23.05.54:903][381]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-23.05.54:903][381]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-23.06.14:771][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.02-23.06.15:556][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.06.15:593][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dummy] ([2] browsable assets)...
+[2024.10.02-23.06.15:658][412]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dummy.Dummy]
+[2024.10.02-23.06.15:658][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dummy]
+[2024.10.02-23.06.15:658][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dummy" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Dummy.uasset" SILENT=true
+[2024.10.02-23.06.15:666][412]LogSavePackage: Moving output files for package: /Game/Dummy
+[2024.10.02-23.06.15:667][412]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/DummyDBF0F1ED4D27E9D7487B6A9C62723001.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Dummy.uasset'
+[2024.10.02-23.06.15:674][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.377 ms (total: 9.25 sec)
+[2024.10.02-23.06.15:711][412]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-23.06.15:711][412]LogContentValidation: Enabled validators:
+[2024.10.02-23.06.15:711][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-23.06.15:711][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-23.06.15:711][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-23.06.15:711][412]LogContentValidation: Display: Validating asset /Game/Dummy.Dummy
+[2024.10.02-23.06.15:711][412]AssetCheck: /Game/Dummy Validating asset
+[2024.10.02-23.17.36:245][520]LogEditorTransaction: Undo Break Pin Link
+[2024.10.02-23.17.36:515][526]LogEditorTransaction: Undo Create Pin Link
+[2024.10.02-23.17.37:021][560]LogEditorTransaction: Undo Move Node
+[2024.10.02-23.17.37:514][609]LogEditorTransaction: Undo Break Pin Link
+[2024.10.02-23.17.49:432][952]LogEditorTransaction: Undo Create Pin Link
+[2024.10.02-23.17.49:903][965]LogEditorTransaction: Undo Move Node
+[2024.10.02-23.17.50:415][ 10]LogEditorTransaction: Undo Break Pin Link
+[2024.10.02-23.18.24:913][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.10.02-23.18.25:704][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.18.25:734][148]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_DamageNumber] ([2] browsable assets)...
+[2024.10.02-23.18.25:756][148]LogScript: Warning: Accessed None trying to read property Actor
+	W_DamageNumber_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_DamageNumber_C_10
+	Function /Game/UI/W_DamageNumber.W_DamageNumber_C:ExecuteUbergraph_W_DamageNumber:019C
+[2024.10.02-23.18.25:759][148]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_DamageNumber.W_DamageNumber]
+[2024.10.02-23.18.25:759][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_DamageNumber]
+[2024.10.02-23.18.25:759][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_DamageNumber" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset" SILENT=true
+[2024.10.02-23.18.25:772][148]LogSavePackage: Moving output files for package: /Game/UI/W_DamageNumber
+[2024.10.02-23.18.25:773][148]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_DamageNumber6C7DBB7946C4F24089D384A378BF2AA5.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_DamageNumber.uasset'
+[2024.10.02-23.18.25:783][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.170 ms (total: 9.33 sec)
+[2024.10.02-23.18.25:825][148]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.02-23.18.25:825][148]LogContentValidation: Enabled validators:
+[2024.10.02-23.18.25:825][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.02-23.18.25:825][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.02-23.18.25:826][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.02-23.18.25:826][148]LogContentValidation: Display: Validating asset /Game/UI/W_DamageNumber.W_DamageNumber
+[2024.10.02-23.18.25:826][148]AssetCheck: /Game/UI/W_DamageNumber Validating asset
+[2024.10.02-23.18.40:506][304]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-23.18.40:516][304]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-23.18.40:516][304]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-23.18.40:518][304]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.137 ms (total: 26.668 ms)
+[2024.10.02-23.18.40:520][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-23.18.40:520][304]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.18.40:525][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004612s)
+[2024.10.02-23.18.40:525][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004656s)
+[2024.10.02-23.18.40:546][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-23.18.40:551][304]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-23.18.40:552][304]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-23.18.40:552][304]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-23.18.40:552][304]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-23.18.40:552][304]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-23.18.40:554][304]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-23.18.40:554][304]LogWorldPartition: Display: WorldPartition initialize took 1.685 ms (total: 80.085 ms)
+[2024.10.02-23.18.40:554][304]LogPlayLevel: PIE: World Init took: (0.002952s)
+[2024.10.02-23.18.40:575][304]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-23.18.40:575][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-23.18.40:575][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-23.18.40:575][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-23.18.40:575][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-23.18.40:575][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-23.18.40:577][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-23.18.40:591][304]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-23.18.40:592][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-23.18.40:592][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-23.18.40:592][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-23.18.40:593][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.02-23.18.40:593][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.02-23.18.40:594][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.02-23.18.40:594][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.02-23.18.40:594][304]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.02-23.18.40:594][304]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownMap'.
+[2024.10.02-23.18.40:595][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.02-23.18.40:625][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.18.40:625][304]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-23.18.40:627][304]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.03-00.18.40
+[2024.10.02-23.18.40:628][304]LogWorld: Bringing up level for play took: 0.002663
+[2024.10.02-23.18.40:630][304]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.10.02-23.18.40:632][304]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-23.18.40:632][304]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-23.18.40:659][304]PIE: Server logged in
+[2024.10.02-23.18.40:660][304]PIE: Play in editor total start time 0.148 seconds.
+[2024.10.02-23.18.58:456][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.18.58:457][ 82]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.18.58:457][ 82]LogSlate: Window 'Sytir Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.02-23.18.58:482][ 82]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-23.18.58:483][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.18.58:483][ 82]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-23.18.58:483][ 82]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-23.18.58:483][ 82]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-23.18.58:483][ 82]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-23.18.58:488][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-23.18.58:497][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.18.58:522][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-23.18.58:522][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.02-23.18.58:522][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.02-23.18.58:523][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.02-23.18.58:531][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.02-23.18.58:629][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.10.02-23.19.02:571][432]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-23.19.02:579][432]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.02-23.19.02:579][432]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.02-23.19.02:581][432]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1.959 ms (total: 28.628 ms)
+[2024.10.02-23.19.02:583][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-23.19.02:583][432]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.19.02:588][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004078s)
+[2024.10.02-23.19.02:588][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004122s)
+[2024.10.02-23.19.02:607][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.02-23.19.02:610][432]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.02-23.19.02:611][432]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.02-23.19.02:611][432]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.02-23.19.02:611][432]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.02-23.19.02:611][432]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.02-23.19.02:613][432]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.02-23.19.02:613][432]LogWorldPartition: Display: WorldPartition initialize took 1.672 ms (total: 81.757 ms)
+[2024.10.02-23.19.02:613][432]LogPlayLevel: PIE: World Init took: (0.003052s)
+[2024.10.02-23.19.02:633][432]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-23.19.02:633][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-23.19.02:633][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-23.19.02:633][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-23.19.02:633][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-23.19.02:633][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-23.19.02:635][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-23.19.02:650][432]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.02-23.19.02:650][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-23.19.02:650][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-23.19.02:650][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-23.19.02:650][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.02-23.19.02:650][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.02-23.19.02:652][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.02-23.19.02:652][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.02-23.19.02:652][432]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.02-23.19.02:652][432]LogAudio: Display: Audio Device (ID: 14) registered with world 'TopDownMap'.
+[2024.10.02-23.19.02:652][432]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.02-23.19.02:655][432]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.02-23.19.02:657][432]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.03-00.19.02
+[2024.10.02-23.19.02:658][432]LogWorld: Bringing up level for play took: 0.002314
+[2024.10.02-23.19.02:660][432]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.10.02-23.19.02:661][432]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.02-23.19.02:661][432]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.02-23.19.02:684][432]PIE: Server logged in
+[2024.10.02-23.19.02:685][432]PIE: Play in editor total start time 0.108 seconds.
+[2024.10.02-23.19.11:548][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.19.11:549][797]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.02-23.19.11:549][797]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-23.19.11:549][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.19.11:549][797]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.02-23.19.11:549][797]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.02-23.19.11:549][797]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.02-23.19.11:549][797]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.02-23.19.11:572][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-23.19.11:581][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-23.19.11:603][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-23.19.11:603][797]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.02-23.19.11:603][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.02-23.19.11:605][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.02-23.19.11:611][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.02-23.19.11:706][798]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.10.02-23.19.34:624][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
