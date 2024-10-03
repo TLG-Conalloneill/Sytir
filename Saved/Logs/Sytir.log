@@ -2469,3 +2469,10 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.10.03-12.33.16:248][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2024.10.03-12.33.16:344][577]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2024.10.03-12.33.17:473][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.03-13.16.48:384][180]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.03-14.16.48:380][979]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.03-14.35.34:486][928]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.03-14.35.34:487][928]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.03-14.35.34:487][928]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Developers/conal/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.03-14.35.40:328][928]LogAutomationController: Ignoring very large delta of 6.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-15.16.48:378][785]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
