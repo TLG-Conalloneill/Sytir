@@ -3095,3 +3095,34 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Material Cache Hits: 31 (21%)
 [2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: ================================================
 [2024.10.15-15.19.43:209][575]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.15-15.22.59:859][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-15.23.02:255][182]LogSlate: Window 'Save Content' being destroyed
+[2024.10.15-15.23.03:654][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.15-15.23.03:660][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-15.23.03:716][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/JL/XVOOXI9XB47FTC8S4C7P0E
+[2024.10.15-15.23.03:716][243]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/XVOOXI9XB47FTC8S4C7P0EFB9333AF4D7E100860D73C89590E0DCD.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/JL/XVOOXI9XB47FTC8S4C7P0E.uasset'
+[2024.10.15-15.23.03:725][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/JB/FR137NYK0BD0WDAQAUP65Q
+[2024.10.15-15.23.03:725][243]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/FR137NYK0BD0WDAQAUP65QFB1AE6CA4E51D354EEA5BBA7F83C1CF2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/JB/FR137NYK0BD0WDAQAUP65Q.uasset'
+[2024.10.15-15.23.03:730][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.10.15-15.23.03:730][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.10.15-15.23.03:730][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownController" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownController.uasset" SILENT=true
+[2024.10.15-15.23.03:755][243]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2024.10.15-15.23.03:756][243]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/BP_TopDownControllerD9FD39E64F3CE3EAA7A28C8926F822AB.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2024.10.15-15.23.03:758][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_ActionSlot] ([2] browsable assets)...
+[2024.10.15-15.23.03:758][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_ActionSlot]
+[2024.10.15-15.23.03:758][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_ActionSlot" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_ActionSlot.uasset" SILENT=true
+[2024.10.15-15.23.03:771][243]LogSavePackage: Moving output files for package: /Game/UI/W_ActionSlot
+[2024.10.15-15.23.03:772][243]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_ActionSlot1A34FF3C41C3804B18F9B284CADA0D8D.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/UI/W_ActionSlot.uasset'
+[2024.10.15-15.23.03:782][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.263 ms (total: 1.92 sec)
+[2024.10.15-15.23.03:826][243]LogContentValidation: Display: Starting to validate 4 assets
+[2024.10.15-15.23.03:826][243]LogContentValidation: Enabled validators:
+[2024.10.15-15.23.03:826][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.15-15.23.03:826][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.15-15.23.03:826][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.15-15.23.03:836][243]LogContentValidation: Display: Validating asset /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.10.15-15.23.03:837][243]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2024.10.15-15.23.03:837][243]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2024.10.15-15.23.03:837][243]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownController Validating asset
+[2024.10.15-15.23.03:837][243]LogContentValidation: Display: Validating asset /Game/UI/W_ActionSlot.W_ActionSlot
+[2024.10.15-15.23.03:843][243]AssetCheck: /Game/UI/W_ActionSlot Validating asset
+[2024.10.15-15.23.08:158][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
