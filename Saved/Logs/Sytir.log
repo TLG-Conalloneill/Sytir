@@ -2839,3 +2839,259 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.10.15-15.04.17:557][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.15-15.04.17:561][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2024.10.15-15.04.17:718][570]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.10.15-15.07.04:818][904]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Assets/ParagonGreystone/FX/Particles/Greystone/Abilities/ClearAPath/FX/P_Greystone_SwordSpinning_End.P_Greystone_SwordSpinning_End
+[2024.10.15-15.07.04:872][904]LogTexture: Display: Building textures: /Game/Assets/ParagonGreystone/FX/Textures/Smoke/T_FluidSmoke_03_N.T_FluidSmoke_03_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.15-15.07.04:872][904]LogTexture: Display: Building textures: /Game/Assets/ParagonGreystone/FX/Textures/Smoke/T_ImpactDust_01.T_ImpactDust_01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.15-15.07.04:872][904]LogTexture: Display: Building textures: /Game/Assets/ParagonGreystone/FX/Textures/Smoke/T_FluidSmoke_03_D.T_FluidSmoke_03_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.15-15.07.04:873][904]LogTexture: Display: Building textures: /Game/Assets/ParagonGreystone/FX/Textures/Smoke/T_FluidSmoke_04_Depth.T_FluidSmoke_04_Depth (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.15-15.07.05:225][904]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AnimTreeEd_PreviewFloor) ...
+[2024.10.15-15.07.26:934][557]LogCascade: Quitting Cascade. FXSystem=0x0000079A67C72640
+[2024.10.15-15.07.26:952][557]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-15.07.26:952][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.07.26:990][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.15-15.07.28:982][719]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-15.07.28:982][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.07.29:026][719]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-15.07.29:026][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.07.29:054][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.15-15.07.38:587][832]LogShaderCompilers: Display: ================================================
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Total job queries 440, among them cache hits 61 (13.86%), DDC hits 353 (80.23%), Duplicates 12 (2.73%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Tracking 367 distinct input hashes that result in 299 distinct outputs (81.47%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: RAM used: 9.33 MiB of 819.20 MiB budget. Usage: 1.14%
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Average time worker was idle: 6421.66 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.25 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Job execution time: average 4.06 s, max 4.80 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Job life time (pending + execution): average 4.21 s, max 4.81
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Shader code size: average 52.36 KiB, min 31.246 KiB, max 65.676 KiB
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.53 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Average processing rate: 1.64 jobs/sec
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Total thread time: 4.629 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Total thread preprocess time: 7.97 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Percentage time preprocessing: 172.19%
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.54% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 12.76% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.22% of total time (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.81% of total time (compiled    3 times, average 0.18 sec, max 0.22 sec, min 0.16 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.63% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: === Material stats ===
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Materials Translated:    145
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Material Total Translate Time: 0.65 s
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Material Translation Only: 0.14 s (22%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Material DDC Serialization Only: -0.02 s (-3%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: Material Cache Hits: 31 (21%)
+[2024.10.15-15.07.38:588][832]LogShaderCompilers: Display: ================================================
+[2024.10.15-15.07.46:192][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.15-15.07.46:920][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-15.07.46:956][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/SwordWave_Effect] ([2] browsable assets)...
+[2024.10.15-15.07.46:956][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/SwordWave_Effect]
+[2024.10.15-15.07.46:957][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/SwordWave_Effect" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/SwordWave_Effect.uasset" SILENT=true
+[2024.10.15-15.07.46:963][746]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/SwordWave_Effect
+[2024.10.15-15.07.46:963][746]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/SwordWave_Effect37E29A2544EB4999421E2282B4232DDF.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/SwordWave_Effect.uasset'
+[2024.10.15-15.07.46:973][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.874 ms (total: 1.79 sec)
+[2024.10.15-15.07.47:012][746]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.15-15.07.47:012][746]LogContentValidation: Enabled validators:
+[2024.10.15-15.07.47:012][746]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.15-15.07.47:012][746]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.15-15.07.47:012][746]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.15-15.07.47:012][746]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/SwordWave_Effect.SwordWave_Effect
+[2024.10.15-15.07.47:012][746]AssetCheck: /Game/Abilities/Effects/SwordWave_Effect Validating asset
+[2024.10.15-15.07.48:386][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-15.07.48:395][823]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.15-15.07.48:395][823]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.15-15.07.48:397][823]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.254 ms (total: 69.392 ms)
+[2024.10.15-15.07.48:400][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-15.07.48:400][823]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.15-15.07.48:405][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004862s)
+[2024.10.15-15.07.48:405][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004901s)
+[2024.10.15-15.07.48:424][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.15-15.07.48:427][823]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.15-15.07.48:428][823]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.15-15.07.48:428][823]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.15-15.07.48:428][823]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.15-15.07.48:428][823]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.15-15.07.48:430][823]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.15-15.07.48:430][823]LogWorldPartition: Display: WorldPartition initialize took 1.690 ms (total: 958.508 ms)
+[2024.10.15-15.07.48:430][823]LogPlayLevel: PIE: World Init took: (0.002877s)
+[2024.10.15-15.07.48:451][823]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-15.07.48:451][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-15.07.48:451][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-15.07.48:451][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-15.07.48:451][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-15.07.48:451][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-15.07.48:452][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-15.07.48:466][823]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.15-15.07.48:467][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-15.07.48:467][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-15.07.48:467][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-15.07.48:467][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.15-15.07.48:467][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.15-15.07.48:469][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.15-15.07.48:469][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.15-15.07.48:469][823]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.15-15.07.48:469][823]LogAudio: Display: Audio Device (ID: 15) registered with world 'TopDownMap'.
+[2024.10.15-15.07.48:469][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.15-15.07.48:472][823]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.15-15.07.48:475][823]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.15-16.07.48
+[2024.10.15-15.07.48:475][823]LogWorld: Bringing up level for play took: 0.003469
+[2024.10.15-15.07.48:478][823]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.15-15.07.48:479][823]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.15-15.07.48:479][823]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.15-15.07.48:504][823]PIE: Server logged in
+[2024.10.15-15.07.48:505][823]PIE: Play in editor total start time 0.112 seconds.
+[2024.10.15-15.07.55:184][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-15.07.55:184][ 91]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.15-15.07.55:184][ 91]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-15.07.55:185][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.07.55:185][ 91]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.15-15.07.55:185][ 91]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.15-15.07.55:185][ 91]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.15-15.07.55:185][ 91]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.15-15.07.55:201][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-15.07.55:210][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.07.55:231][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-15.07.55:231][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.15-15.07.55:231][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.15-15.07.55:233][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.15-15.07.55:239][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.15-15.07.55:347][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.15-15.08.13:843][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.15-15.08.17:184][158]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-15.08.17:195][158]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.15-15.08.17:195][158]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.10.15-15.08.17:197][158]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2.298 ms (total: 71.690 ms)
+[2024.10.15-15.08.17:199][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-15.08.17:200][158]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.15-15.08.17:205][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005003s)
+[2024.10.15-15.08.17:205][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.005090s)
+[2024.10.15-15.08.17:224][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.15-15.08.17:227][158]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.15-15.08.17:228][158]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.15-15.08.17:228][158]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.15-15.08.17:228][158]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.15-15.08.17:228][158]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.15-15.08.17:229][158]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.10.15-15.08.17:229][158]LogWorldPartition: Display: WorldPartition initialize took 1.736 ms (total: 960.244 ms)
+[2024.10.15-15.08.17:229][158]LogPlayLevel: PIE: World Init took: (0.002993s)
+[2024.10.15-15.08.17:250][158]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-15.08.17:251][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-15.08.17:251][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-15.08.17:251][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-15.08.17:251][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-15.08.17:251][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-15.08.17:252][158]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-15.08.17:266][158]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.10.15-15.08.17:267][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-15.08.17:267][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-15.08.17:267][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-15.08.17:267][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.15-15.08.17:267][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.15-15.08.17:268][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.15-15.08.17:269][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.15-15.08.17:269][158]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.15-15.08.17:269][158]LogAudio: Display: Audio Device (ID: 16) registered with world 'TopDownMap'.
+[2024.10.15-15.08.17:269][158]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.15-15.08.17:272][158]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.10.15-15.08.17:274][158]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.10.15-16.08.17
+[2024.10.15-15.08.17:275][158]LogWorld: Bringing up level for play took: 0.002860
+[2024.10.15-15.08.17:279][158]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.10.15-15.08.17:280][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.10.15-15.08.17:280][158]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.10.15-15.08.17:304][158]PIE: Server logged in
+[2024.10.15-15.08.17:305][158]PIE: Play in editor total start time 0.115 seconds.
+[2024.10.15-15.08.23:473][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-15.08.23:473][324]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.10.15-15.08.23:474][324]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-15.08.23:474][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.08.23:474][324]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.10.15-15.08.23:474][324]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.10.15-15.08.23:475][324]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.15-15.08.23:475][324]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.15-15.08.23:486][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-15.08.23:495][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-15.08.23:516][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-15.08.23:516][324]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.15-15.08.23:516][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.15-15.08.23:517][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.15-15.08.23:524][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.15-15.08.23:624][325]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.15-15.09.36:622][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.15-15.09.36:626][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2024.10.15-15.09.36:626][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.10.15-15.09.36:626][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.10.15-15.09.36:651][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownController_Auto7
+[2024.10.15-15.09.36:651][755]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/BP_TopDownController_Auto718E884F542AEA3C0B244849F827CFB5B.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownController_Auto7.uasset'
+[2024.10.15-15.09.36:653][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_ActionSlot] ([2] browsable assets)...
+[2024.10.15-15.09.36:653][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_ActionSlot]
+[2024.10.15-15.09.36:653][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_ActionSlot" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/UI/W_ActionSlot_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.10.15-15.09.36:667][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_ActionSlot_Auto7
+[2024.10.15-15.09.36:668][755]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/W_ActionSlot_Auto7293BA32A4303F956383F4FB1E9CE0866.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Autosaves/Game/UI/W_ActionSlot_Auto7.uasset'
+[2024.10.15-15.09.36:669][755]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: ================================================
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Total job queries 445, among them cache hits 65 (14.61%), DDC hits 353 (79.33%), Duplicates 12 (2.70%)
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Tracking 368 distinct input hashes that result in 300 distinct outputs (81.52%)
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: RAM used: 9.37 MiB of 819.20 MiB budget. Usage: 1.14%
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Shaders Compiled: 15
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Average time worker was idle: 5510.15 s
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.25 s
+[2024.10.15-15.10.38:902][942]LogShaderCompilers: Display: Job execution time: average 3.84 s, max 4.80 s
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Job life time (pending + execution): average 3.98 s, max 4.81
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Shader code size: average 53.79 KiB, min 31.246 KiB, max 65.676 KiB
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.26 s
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Total thread time: 5.008 s
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Total thread preprocess time: 8.03 s
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Percentage time preprocessing: 160.34%
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.57 sec, max 0.77 sec, min 0.38 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 22.87% of total time (compiled    2 times, average 0.57 sec, max 0.77 sec, min 0.38 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 11.79% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.30% of total time (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.91% of total time (compiled    3 times, average 0.18 sec, max 0.22 sec, min 0.16 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.75% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: === Material stats ===
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Materials Translated:    145
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Material Total Translate Time: 0.65 s
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Material Translation Only: 0.14 s (22%)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Material DDC Serialization Only: -0.02 s (-3%)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: Material Cache Hits: 31 (21%)
+[2024.10.15-15.10.38:903][942]LogShaderCompilers: Display: ================================================
+[2024.10.15-15.19.43:209][575]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
