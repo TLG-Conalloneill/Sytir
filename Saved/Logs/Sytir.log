@@ -3362,3 +3362,465 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.11.27-14.44.04:024][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.11.27-14.44.04:032][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2024.11.27-14.44.04:041][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.504 ms (total: 1.45 sec)
+[2024.11.27-14.44.27:452][296]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-14.44.27:518][296]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.27-14.44.27:518][296]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.11.27-14.44.27:530][296]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 11.631 ms
+[2024.11.27-14.44.27:641][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-14.44.27:641][296]BlueprintLog: Warning: Blueprint failed to compile:  GreystonePlayerCharacter
+[2024.11.27-14.44.28:648][296]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.11.27-14.44.28:787][296]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.11.27-14.44.28:788][296]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.11.27-14.44.28:838][296]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.11.27-14.44.28:861][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023069s)
+[2024.11.27-14.44.28:861][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.023275s)
+[2024.11.27-14.44.28:867][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.27-14.44.28:880][296]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-14.44.28:917][296]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.27-14.44.28:917][296]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.27-14.44.28:917][296]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.27-14.44.28:917][296]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.27-14.44.28:919][296]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.11.27-14.44.28:919][296]LogWorldPartition: Display: WorldPartition initialize took 2.298 ms (total: 841.385 ms)
+[2024.11.27-14.44.28:921][296]LogPlayLevel: PIE: World Init took: (0.040996s)
+[2024.11.27-14.44.28:951][296]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-14.44.28:951][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-14.44.28:951][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-14.44.28:951][296]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-14.44.28:951][296]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-14.44.28:951][296]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-14.44.28:953][296]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-14.44.28:970][296]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.27-14.44.28:970][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-14.44.28:970][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-14.44.28:970][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-14.44.28:971][296]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.11.27-14.44.28:971][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.11.27-14.44.28:972][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.11.27-14.44.28:972][296]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.11.27-14.44.28:973][296]LogInit: FAudioDevice initialized with ID 2.
+[2024.11.27-14.44.28:973][296]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2024.11.27-14.44.28:973][296]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.27-14.44.29:017][296]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.11.27-14.44.29:069][296]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.11.27-14.44.29
+[2024.11.27-14.44.29:296][296]LogWorld: Bringing up level for play took: 0.268443
+[2024.11.27-14.44.29:307][296]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.11.27-14.44.29:573][296]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.27-14.44.29:573][296]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.11.27-14.44.29:886][296]PIE: Server logged in
+[2024.11.27-14.44.29:887][296]PIE: Play in editor total start time 2.389 seconds.
+[2024.11.27-14.44.30:673][296]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.27-14.44.33:410][393]LogShaderCompilers: Warning: Failed to compile Material /Game/Assets/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2.M_TearDuct_2 for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Generated/Material.ush:4232:18: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local4 = MaterialCollection0.Vectors[16];
+	                        ^
+  /Engine/Generated/Material.ush:4240:19: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local12 = MaterialCollection0.Vectors[1];
+	                         ^
+  /Engine/Generated/Material.ush:4248:19: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local20 = MaterialCollection0.Vectors[0];
+	                         ^
+  /Engine/Generated/Material.ush:4279:30: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Opacity = Local48.rgb.rgb;
+	                                    ^
+  /Engine/Generated/Material.ush:4282:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Metallic = Local44.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4283:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Specular = Local45.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4284:32: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Roughness = Local46.rgb.rgb;
+	                                      ^
+
+[2024.11.27-14.44.33:410][393]LogShaderCompilers: Warning: Failed to compile Material /Game/Assets/ParagonGreystone/Characters/Global/Mouth/Materials/M_Mouth_Master.M_Mouth_Master for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Generated/Material.ush:4193:18: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local4 = MaterialCollection0.Vectors[16];
+	                        ^
+  /Engine/Generated/Material.ush:4201:19: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local12 = MaterialCollection0.Vectors[1];
+	                         ^
+  /Engine/Generated/Material.ush:4209:19: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local20 = MaterialCollection0.Vectors[0];
+	                         ^
+  /Engine/Generated/Material.ush:4290:30: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Opacity = Local98.rgb.rgb;
+	                                    ^
+  /Engine/Generated/Material.ush:4293:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Metallic = Local83.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4294:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Specular = Local85.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4295:32: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Roughness = Local91.rgb.rgb;
+	                                      ^
+
+[2024.11.27-14.44.33:410][393]LogShaderCompilers: Warning: Failed to compile Material /Game/Assets/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine.M_TearLine for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Generated/Material.ush:4144:18: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local0 = MaterialCollection0.Vectors[16];
+	                        ^
+  /Engine/Generated/Material.ush:4152:18: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local8 = MaterialCollection0.Vectors[1];
+	                        ^
+  /Engine/Generated/Material.ush:4160:19: error: use of undeclared identifier 'MaterialCollection0'
+	        float4 Local16 = MaterialCollection0.Vectors[0];
+	                         ^
+  /Engine/Generated/Material.ush:4207:30: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Opacity = Local60.rgb.rgb;
+	                                    ^
+  /Engine/Generated/Material.ush:4210:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Metallic = Local40.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4211:31: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Specular = Local41.rgb.rgb;
+	                                     ^
+  /Engine/Generated/Material.ush:4212:32: warning: implicit truncation of vector type [-Wconversion]
+	        PixelMaterialInputs.Roughness = Local42.rgb.rgb;
+	                                      ^
+
+[2024.11.27-14.44.41:175][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-14.44.41:182][671]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.11.27-14.44.41:219][671]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-14.44.41:235][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-14.44.41:235][671]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.11.27-14.44.41:282][671]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.11.27-14.44.41:282][671]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-14.44.41:282][671]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-14.44.41:342][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-14.44.41:354][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-14.44.41:370][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-14.44.41:388][671]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.27-14.44.41:423][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.27-14.44.41:433][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.27-14.44.41:569][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.27-14.44.41:692][672]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.11.27-14.44.54:707][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Abilities/Effects/Debuffs/Debuff_Poison.Debuff_Poison
+[2024.11.27-14.44.57:794][222]LogBlueprintEditor: Perf: 2.9 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.11.27-14.44.57:794][222]LogBlueprintEditor: Perf: 2.7 seconds loading: /Game/UI/CIP_PC/Blueprints/BP_ControllerIcon_Functions
+[2024.11.27-14.45.00:879][222]LogAutomationController: Ignoring very large delta of 6.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.27-14.45.11:953][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.11.27-14.45.13:114][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-14.45.13:149][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abilities/Effects/Debuffs/Debuff_Poison] ([2] browsable assets)...
+[2024.11.27-14.45.13:149][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abilities/Effects/Debuffs/Debuff_Poison]
+[2024.11.27-14.45.13:149][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Abilities/Effects/Debuffs/Debuff_Poison" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/Debuffs/Debuff_Poison.uasset" SILENT=true
+[2024.11.27-14.45.13:204][574]LogSavePackage: Moving output files for package: /Game/Abilities/Effects/Debuffs/Debuff_Poison
+[2024.11.27-14.45.13:205][574]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/Debuff_Poison8613A7A842D67C973CD2C7A2CC723FF1.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/Abilities/Effects/Debuffs/Debuff_Poison.uasset'
+[2024.11.27-14.45.13:213][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.437 ms (total: 1.55 sec)
+[2024.11.27-14.45.13:251][574]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-14.45.13:252][574]LogContentValidation: Enabled validators:
+[2024.11.27-14.45.13:252][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-14.45.13:252][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-14.45.13:252][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-14.45.13:252][574]LogContentValidation: Display: Validating asset /Game/Abilities/Effects/Debuffs/Debuff_Poison.Debuff_Poison
+[2024.11.27-14.45.13:252][574]AssetCheck: /Game/Abilities/Effects/Debuffs/Debuff_Poison Validating asset
+[2024.11.27-14.45.14:526][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-14.45.14:536][637]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.27-14.45.14:537][637]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.11.27-14.45.14:538][637]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1.993 ms (total: 13.625 ms)
+[2024.11.27-14.45.14:541][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-14.45.14:564][637]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.11.27-14.45.14:568][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004337s)
+[2024.11.27-14.45.14:568][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004380s)
+[2024.11.27-14.45.14:587][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.11.27-14.45.14:588][637]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-14.45.14:589][637]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.27-14.45.14:589][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.27-14.45.14:589][637]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.27-14.45.14:589][637]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.27-14.45.14:591][637]LogContentBundle: [TopDownMap(Standalone)] Creating new container.
+[2024.11.27-14.45.14:591][637]LogWorldPartition: Display: WorldPartition initialize took 1.882 ms (total: 843.267 ms)
+[2024.11.27-14.45.14:591][637]LogPlayLevel: PIE: World Init took: (0.003178s)
+[2024.11.27-14.45.14:614][637]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-14.45.14:614][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-14.45.14:614][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-14.45.14:614][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-14.45.14:614][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-14.45.14:614][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-14.45.14:616][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-14.45.14:629][637]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.27-14.45.14:630][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-14.45.14:630][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-14.45.14:630][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-14.45.14:631][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.27-14.45.14:631][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.27-14.45.14:632][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.27-14.45.14:632][637]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.27-14.45.14:632][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.27-14.45.14:633][637]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2024.11.27-14.45.14:633][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.27-14.45.14:635][637]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.11.27-14.45.14:638][637]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.11.27-14.45.14
+[2024.11.27-14.45.14:638][637]LogWorld: Bringing up level for play took: 0.003011
+[2024.11.27-14.45.14:641][637]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.11.27-14.45.14:642][637]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.27-14.45.14:642][637]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.11.27-14.45.14:668][637]PIE: Server logged in
+[2024.11.27-14.45.14:668][637]PIE: Play in editor total start time 0.136 seconds.
+[2024.11.27-14.45.19:334][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2114.295410
+[2024.11.27-14.45.19:544][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-14.45.19:544][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2114.481934, Update Interval: 311.757568
+[2024.11.27-14.45.32:036][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-14.45.32:036][374]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.11.27-14.45.32:036][374]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-14.45.32:037][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-14.45.32:037][374]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.11.27-14.45.32:037][374]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.11.27-14.45.32:037][374]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-14.45.32:037][374]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-14.45.32:046][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-14.45.32:056][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-14.45.32:076][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-14.45.32:077][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.27-14.45.32:077][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.27-14.45.32:078][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.27-14.45.32:085][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.11.27-14.45.32:197][375]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: ================================================
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Total job queries 1,485, among them cache hits 463 (31.18%), DDC hits 565 (38.05%), Duplicates 27 (1.82%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Tracking 992 distinct input hashes that result in 748 distinct outputs (75.40%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: RAM used: 21.16 MiB of 819.20 MiB budget. Usage: 2.58%
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Shaders Compiled: 430
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Jobs assigned 430, completed 430 (100%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Average time worker was idle: 35.28 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Time job spent in pending queue: average 0.85 s, longest 5.15 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 3.41 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 6.49
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Shader code size: average 39.409 KiB, min 2.492 KiB, max 63.711 KiB
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.55 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Jobs were issued in 430 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Average processing rate: 5.85 jobs/sec
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Total thread time: 194.377 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Total thread preprocess time: 21.921 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Percentage time preprocessing: 11.28%
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    7 times, average 1.69 sec, max 1.97 sec, min 1.33 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.69 sec, max 0.79 sec, min 0.42 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 0.68 sec, max 0.75 sec, min 0.44 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 0.67 sec, max 0.76 sec, min 0.42 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 0.66 sec, max 0.76 sec, min 0.40 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.73% of total time (compiled   65 times, average 0.56 sec, max 0.91 sec, min 0.21 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.46% of total time (compiled   50 times, average 0.41 sec, max 0.65 sec, min 0.31 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.64% of total time (compiled   48 times, average 0.35 sec, max 0.47 sec, min 0.24 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.32% of total time (compiled   42 times, average 0.29 sec, max 0.40 sec, min 0.23 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.08% of total time (compiled    7 times, average 1.69 sec, max 1.97 sec, min 1.33 sec)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: === Material stats ===
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Materials Translated:    584
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Material Total Translate Time: 1.45 s
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Material Translation Only: 0.73 s (50%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Material DDC Serialization Only: -0.00 s (0%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: Material Cache Hits: 235 (40%)
+[2024.11.27-14.47.17:177][ 48]LogShaderCompilers: Display: ================================================
+[2024.11.27-14.51.24:250][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2479.210205
+[2024.11.27-14.51.24:428][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-14.51.24:428][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2479.367188, Update Interval: 335.483276
+[2024.11.27-14.57.58:141][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2873.095215
+[2024.11.27-14.57.58:320][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-14.57.58:320][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2873.254150, Update Interval: 309.778137
+[2024.11.27-15.04.07:741][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3242.689453
+[2024.11.27-15.04.07:921][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.04.07:921][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3242.847168, Update Interval: 303.186127
+[2024.11.27-15.10.01:671][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3596.629150
+[2024.11.27-15.10.01:851][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.10.01:851][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3596.787842, Update Interval: 332.683502
+[2024.11.27-15.11.17:178][ 52]LogDerivedDataCache: C:/Users/conal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.27-15.16.17:287][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3972.252197
+[2024.11.27-15.16.17:470][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.16.17:470][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3972.411133, Update Interval: 313.110748
+[2024.11.27-15.22.30:259][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4345.238770
+[2024.11.27-15.22.30:463][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.22.30:464][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4345.418945, Update Interval: 351.608032
+[2024.11.27-15.29.04:859][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4739.852051
+[2024.11.27-15.29.05:063][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.29.05:063][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4740.032715, Update Interval: 349.073761
+[2024.11.27-15.35.43:252][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5138.230957
+[2024.11.27-15.35.43:433][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-15.35.43:433][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5138.390137, Update Interval: 358.998383
+[2024.11.27-15.40.40:937][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.27-15.40.43:122][660]LogSlate: Window 'Save Content' being destroyed
+[2024.11.27-15.40.43:136][660]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.27-15.40.45:466][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.27-15.40.45:482][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-15.40.45:519][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff] ([1] browsable assets)...
+[2024.11.27-15.40.45:519][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff]
+[2024.11.27-15.40.45:528][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff
+[2024.11.27-15.40.45:529][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_GreenBuffC0FB593D4A7F3D375477E186B274F982.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff.uasset'
+[2024.11.27-15.40.45:531][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU] ([1] browsable assets)...
+[2024.11.27-15.40.45:531][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU]
+[2024.11.27-15.40.45:534][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU
+[2024.11.27-15.40.45:535][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_BlueBaby_GPU352B69254789600ABF14699929E83D99.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU.uasset'
+[2024.11.27-15.40.45:536][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects] ([1] browsable assets)...
+[2024.11.27-15.40.45:536][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects]
+[2024.11.27-15.40.45:540][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects
+[2024.11.27-15.40.45:541][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Mambo_Insects8E26C3D24B0FE8B7036EE88B85EA9B0E.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects.uasset'
+[2024.11.27-15.40.45:542][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst] ([1] browsable assets)...
+[2024.11.27-15.40.45:542][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst]
+[2024.11.27-15.40.45:544][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst
+[2024.11.27-15.40.45:545][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/MI_Bat_Inst5D1D107E4DDF5B5ECB53928F67E823D2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst.uasset'
+[2024.11.27-15.40.45:547][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_MossGround_02] ([1] browsable assets)...
+[2024.11.27-15.40.45:547][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_MossGround_02]
+[2024.11.27-15.40.45:552][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_MossGround_02
+[2024.11.27-15.40.45:553][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_MossGround_021C11CEA34DFDB5020335DFBF8DC421F9.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_MossGround_02.uasset'
+[2024.11.27-15.40.45:554][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned] ([1] browsable assets)...
+[2024.11.27-15.40.45:554][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned]
+[2024.11.27-15.40.45:563][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned
+[2024.11.27-15.40.45:564][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_MossLayer_WorldAlignedC05521AB4684AD78937CBEA66B887B64.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned.uasset'
+[2024.11.27-15.40.45:566][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks] ([1] browsable assets)...
+[2024.11.27-15.40.45:566][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks]
+[2024.11.27-15.40.45:570][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks
+[2024.11.27-15.40.45:570][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_PhotoScanRocks7BDE8BF845BDF4A2B15AF2A3CCFDA800.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks.uasset'
+[2024.11.27-15.40.45:572][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_RockFlakes] ([1] browsable assets)...
+[2024.11.27-15.40.45:572][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_RockFlakes]
+[2024.11.27-15.40.45:575][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_RockFlakes
+[2024.11.27-15.40.45:576][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_RockFlakes359B9ADA484541FAAB6559BB99559577.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_RockFlakes.uasset'
+[2024.11.27-15.40.45:577][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_SedimentStain] ([1] browsable assets)...
+[2024.11.27-15.40.45:577][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_SedimentStain]
+[2024.11.27-15.40.45:580][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_SedimentStain
+[2024.11.27-15.40.45:581][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_SedimentStainCF44595947E5AFE2D35C6395F379471E.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_SedimentStain.uasset'
+[2024.11.27-15.40.45:582][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap] ([1] browsable assets)...
+[2024.11.27-15.40.45:583][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap]
+[2024.11.27-15.40.45:587][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap
+[2024.11.27-15.40.45:588][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/MF_Terrain_LowResHeightmapCE0E621E4B23D64F35496A961BBDB397.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap.uasset'
+[2024.11.27-15.40.45:589][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh] ([1] browsable assets)...
+[2024.11.27-15.40.45:589][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh]
+[2024.11.27-15.40.45:596][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh
+[2024.11.27-15.40.45:597][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Bug_MeshB889E6894B5872B6756694B6BE862866.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh.uasset'
+[2024.11.27-15.40.45:598][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred] ([1] browsable assets)...
+[2024.11.27-15.40.45:598][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred]
+[2024.11.27-15.40.45:601][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred
+[2024.11.27-15.40.45:602][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Snowflake_FlipRandom_GPU_CloseEF59DDBF414F4D7668BA21AE31E17CEB.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred.uasset'
+[2024.11.27-15.40.45:603][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_blue_Metal] ([1] browsable assets)...
+[2024.11.27-15.40.45:604][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_blue_Metal]
+[2024.11.27-15.40.45:611][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_blue_Metal
+[2024.11.27-15.40.45:612][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_blue_Metal7348409C43F7C186A6E7C1A5B9F91DB1.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_blue_Metal.uasset'
+[2024.11.27-15.40.45:613][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU] ([1] browsable assets)...
+[2024.11.27-15.40.45:613][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU]
+[2024.11.27-15.40.45:618][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU
+[2024.11.27-15.40.45:619][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Snowflake_FlipRandom_GPUACCE1A1F4075B7F1B1DF9E8831FF0480.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU.uasset'
+[2024.11.27-15.40.45:620][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2] ([1] browsable assets)...
+[2024.11.27-15.40.45:620][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2]
+[2024.11.27-15.40.45:624][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2
+[2024.11.27-15.40.45:625][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_WhiteClearCoat2984B522D4E253FE8724A25A3B4DF349C.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2.uasset'
+[2024.11.27-15.40.45:626][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_Rust04] ([1] browsable assets)...
+[2024.11.27-15.40.45:626][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_Rust04]
+[2024.11.27-15.40.45:626][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParagonMinions/FX/Materials/Environment/ML_Rust04" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Rust04.uasset" SILENT=true
+[2024.11.27-15.40.45:630][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_Rust04
+[2024.11.27-15.40.45:630][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_Rust04DC3DB42F4CCB24111DB0E79A86321080.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Rust04.uasset'
+[2024.11.27-15.40.45:632][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_Mud] ([1] browsable assets)...
+[2024.11.27-15.40.45:632][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_Mud]
+[2024.11.27-15.40.45:632][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParagonMinions/FX/Materials/Environment/ML_Mud" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Mud.uasset" SILENT=true
+[2024.11.27-15.40.45:635][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_Mud
+[2024.11.27-15.40.45:635][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_Mud81B9CA51477A6D0D04ABFABD303D80FD.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Mud.uasset'
+[2024.11.27-15.40.45:637][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_Moss] ([1] browsable assets)...
+[2024.11.27-15.40.45:637][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_Moss]
+[2024.11.27-15.40.45:637][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParagonMinions/FX/Materials/Environment/ML_Moss" FILE="C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Moss.uasset" SILENT=true
+[2024.11.27-15.40.45:639][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_Moss
+[2024.11.27-15.40.45:640][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_Moss866F9994402A614D41D5209E06C3BCCF.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Moss.uasset'
+[2024.11.27-15.40.45:642][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_MinionMetal] ([1] browsable assets)...
+[2024.11.27-15.40.45:642][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_MinionMetal]
+[2024.11.27-15.40.45:646][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_MinionMetal
+[2024.11.27-15.40.45:647][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_MinionMetal9016C8DA41095A495FB3DDBA992BF905.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_MinionMetal.uasset'
+[2024.11.27-15.40.45:648][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff] ([1] browsable assets)...
+[2024.11.27-15.40.45:648][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff]
+[2024.11.27-15.40.45:655][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff
+[2024.11.27-15.40.45:656][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_Metal_Patina_GoldBuffC6DF9D5741A1A55DC40AE1BCF3A31BD2.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff.uasset'
+[2024.11.27-15.40.45:658][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6] ([1] browsable assets)...
+[2024.11.27-15.40.45:658][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6]
+[2024.11.27-15.40.45:663][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6
+[2024.11.27-15.40.45:664][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/ML_Light_Metal6F5232DA84E8E50D43145C8A3A3AE39EA.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6.uasset'
+[2024.11.27-15.40.45:665][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand] ([1] browsable assets)...
+[2024.11.27-15.40.45:665][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand]
+[2024.11.27-15.40.45:668][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand
+[2024.11.27-15.40.45:669][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_dove_subUV_lit_GPURand1434AA124E27E59F935D689A074AE79E.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand.uasset'
+[2024.11.27-15.40.45:670][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff] ([1] browsable assets)...
+[2024.11.27-15.40.45:670][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff]
+[2024.11.27-15.40.45:685][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff
+[2024.11.27-15.40.45:686][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_RedBuff687573BF49C5537C55A0CD92402E028A.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff.uasset'
+[2024.11.27-15.40.45:688][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird] ([1] browsable assets)...
+[2024.11.27-15.40.45:688][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird]
+[2024.11.27-15.40.45:698][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird
+[2024.11.27-15.40.45:698][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Zen_Bird3BE7DB144E771A55A0E2FFABE4A0D43D.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird.uasset'
+[2024.11.27-15.40.45:700][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater] ([1] browsable assets)...
+[2024.11.27-15.40.45:700][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater]
+[2024.11.27-15.40.45:717][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater
+[2024.11.27-15.40.45:718][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/MF_MineralPoolWater751DA5214997C050BBAFEAB253898DA0.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater.uasset'
+[2024.11.27-15.40.45:719][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby] ([1] browsable assets)...
+[2024.11.27-15.40.45:719][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby]
+[2024.11.27-15.40.45:730][909]LogSavePackage: Moving output files for package: /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby
+[2024.11.27-15.40.45:731][909]LogSavePackage: Moving 'C:/Users/conal/Desktop/TEMP/Sytir/Saved/M_Buff_Master_Baby1DB428D14AD3A8F83C4D39B7119EB763.tmp' to 'C:/Users/conal/Desktop/TEMP/Sytir/Content/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby.uasset'
+[2024.11.27-15.40.45:740][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.513 ms (total: 1.80 sec)
+[2024.11.27-15.40.45:787][909]LogContentValidation: Display: Starting to validate 26 assets
+[2024.11.27-15.40.45:787][909]LogContentValidation: Enabled validators:
+[2024.11.27-15.40.45:787][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-15.40.45:787][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-15.40.45:787][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-15.40.45:787][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff.M_GreenBuff
+[2024.11.27-15.40.45:787][909]AssetCheck: /Game/ParagonMinions/Characters/Buff/Buff_Green/Materials/M_GreenBuff Validating asset
+[2024.11.27-15.40.45:787][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU.M_BlueBaby_GPU
+[2024.11.27-15.40.45:787][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_BlueBaby_GPU Validating asset
+[2024.11.27-15.40.45:787][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects.M_Mambo_Insects
+[2024.11.27-15.40.45:787][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Bugs/M_Mambo_Insects Validating asset
+[2024.11.27-15.40.45:787][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst.MI_Bat_Inst
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Birds/MI_Bat_Inst Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_MossGround_02.ML_MossGround_02
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_MossGround_02 Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned.ML_MossLayer_WorldAligned
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_MossLayer_WorldAligned Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks.ML_PhotoScanRocks
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_PhotoScanRocks Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_RockFlakes.ML_RockFlakes
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_RockFlakes Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_SedimentStain.ML_SedimentStain
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_SedimentStain Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap.MF_Terrain_LowResHeightmap
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Functions/MF_Terrain_LowResHeightmap Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh.M_Bug_Mesh
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Bugs/Roach/M_Bug_Mesh Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred.M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU_CloseCam_CheaperBlurred Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_blue_Metal.ML_blue_Metal
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_blue_Metal Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU.M_Snowflake_FlipRandom_GPU
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Motes/M_Snowflake_FlipRandom_GPU Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2.ML_WhiteClearCoat2
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_WhiteClearCoat2 Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_Rust04.ML_Rust04
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_Rust04 Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_Mud.ML_Mud
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_Mud Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_Moss.ML_Moss
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_Moss Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_MinionMetal.ML_MinionMetal
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_MinionMetal Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff.ML_Metal_Patina_GoldBuff
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_Metal_Patina_GoldBuff Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6.ML_Light_Metal6
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/ML_Light_Metal6 Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand.M_dove_subUV_lit_GPURand
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Birds/M_dove_subUV_lit_GPURand Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff.M_RedBuff
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Red/M_RedBuff Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird.M_Zen_Bird
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Environment/Birds/M_Zen_Bird Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater.MF_MineralPoolWater
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Functions/MF_MineralPoolWater Validating asset
+[2024.11.27-15.40.45:788][909]LogContentValidation: Display: Validating asset /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby.M_Buff_Master_Baby
+[2024.11.27-15.40.45:788][909]AssetCheck: /Game/ParagonMinions/FX/Materials/Camps_Specific/Buff_Blue/M_Buff_Master_Baby Validating asset
