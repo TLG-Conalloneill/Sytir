@@ -3272,3 +3272,93 @@ Make sure 'GreystonePlayerCharacter' has been compiled for  Reset Orientation an
 [2024.11.27-14.33.02:420][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1381.113770
 [2024.11.27-14.33.03:420][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.27-14.33.03:420][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1381.780762, Update Interval: 310.426331
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: ================================================
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: Total job queries 1,302, among them cache hits 379 (29.11%), DDC hits 484 (37.17%), Duplicates 22 (1.69%)
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: Tracking 901 distinct input hashes that result in 677 distinct outputs (75.14%)
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: RAM used: 19.32 MiB of 819.20 MiB budget. Usage: 2.36%
+[2024.11.27-14.35.12:886][755]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Shaders Compiled: 417
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Jobs assigned 417, completed 417 (100%)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Average time worker was idle: 22.42 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Time job spent in pending queue: average 0.86 s, longest 5.15 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 3.41 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 6.49
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Shader code size: average 39.409 KiB, min 2.492 KiB, max 63.711 KiB
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.11 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Jobs were issued in 417 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Average processing rate: 5.95 jobs/sec
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Total thread time: 192.153 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Total thread preprocess time: 19.372 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Percentage time preprocessing: 10.08%
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Effective parallelization: 2.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    7 times, average 1.69 sec, max 1.97 sec, min 1.33 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.69 sec, max 0.79 sec, min 0.42 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 0.68 sec, max 0.75 sec, min 0.44 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 0.67 sec, max 0.76 sec, min 0.42 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 0.66 sec, max 0.76 sec, min 0.40 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.73% of total time (compiled   63 times, average 0.57 sec, max 0.91 sec, min 0.41 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.58% of total time (compiled   50 times, average 0.41 sec, max 0.65 sec, min 0.31 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.74% of total time (compiled   48 times, average 0.35 sec, max 0.47 sec, min 0.24 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.40% of total time (compiled   42 times, average 0.29 sec, max 0.40 sec, min 0.23 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.15% of total time (compiled    7 times, average 1.69 sec, max 1.97 sec, min 1.33 sec)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: === Material stats ===
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Materials Translated:    583
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Material Total Translate Time: 1.44 s
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Material Translation Only: 0.73 s (51%)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Material DDC Serialization Only: -0.00 s (0%)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: Material Cache Hits: 235 (40%)
+[2024.11.27-14.35.12:887][755]LogShaderCompilers: Display: ================================================
+[2024.11.27-14.38.44:028][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1722.723145
+[2024.11.27-14.38.45:029][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.27-14.38.45:030][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.389404, Update Interval: 358.377625
+[2024.11.27-14.42.24:206][841]Cmd: DELETE
+[2024.11.27-14.42.24:206][841]Cmd: ACTOR DELETE
+[2024.11.27-14.42.24:214][841]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.11.27-14.42.24:223][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.27-14.42.24:227][841]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.11.27-14.42.25:787][906]Cmd: DELETE
+[2024.11.27-14.42.25:787][906]Cmd: ACTOR DELETE
+[2024.11.27-14.42.25:789][906]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.11.27-14.42.25:797][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.27-14.42.25:800][906]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.11.27-14.42.26:595][937]Cmd: DELETE
+[2024.11.27-14.42.26:595][937]Cmd: ACTOR DELETE
+[2024.11.27-14.42.26:597][937]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.11.27-14.42.26:605][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.27-14.42.26:609][937]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.11.27-14.42.29:061][ 39]Cmd: DELETE
+[2024.11.27-14.42.29:061][ 39]Cmd: ACTOR DELETE
+[2024.11.27-14.42.29:064][ 39]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.11.27-14.42.29:071][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.27-14.42.29:075][ 39]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.11.27-14.42.57:374][329]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonMinions/Characters/Minions/Down_Minions/Animations/Ranged/Aggro_Transition_A.Aggro_Transition_A
+[2024.11.27-14.42.59:720][329]LogSlate: Window 'Message' being destroyed
+[2024.11.27-14.42.59:725][329]Message dialog closed, result: No, title: Message, text: Could not find the skeleton for Anim 'Aggro_Transition_A' Would you like to choose a new one?
+[2024.11.27-14.42.59:780][329]LogAutomationController: Ignoring very large delta of 2.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.27-14.43.27:003][547]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White
+[2024.11.27-14.43.27:003][547]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White
+[2024.11.27-14.43.27:003][547]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_10
+[2024.11.27-14.43.27:004][547]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_10
+[2024.11.27-14.43.28:285][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.27-14.43.28:291][626]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2024.11.27-14.43.28:298][626]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White
+[2024.11.27-14.43.28:298][626]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White
+[2024.11.27-14.43.28:301][626]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_B42E9990A4C1743302_2066378777
+[2024.11.27-14.43.28:301][626]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_White/Meshes/Buff_White.Buff_White as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_B42E9990A4C1743302_2066378777
+[2024.11.27-14.43.43:463][268]Cmd: DELETE
+[2024.11.27-14.43.43:463][268]Cmd: ACTOR DELETE
+[2024.11.27-14.43.43:465][268]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.11.27-14.43.43:472][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.27-14.43.43:476][268]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.11.27-14.43.58:877][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.27-14.44.00:789][853]LogSlate: Window 'Save Content' being destroyed
+[2024.11.27-14.44.03:926][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-14.44.04:017][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.27-14.44.04:024][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.27-14.44.04:032][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.27-14.44.04:041][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.504 ms (total: 1.45 sec)
